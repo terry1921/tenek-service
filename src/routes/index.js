@@ -1,13 +1,18 @@
 const { Router } = require('express');
 const router = Router();
-let jsonNenek = require('../public/neneks.json');
+const dictionary = require('../words.js');
+let jsonNenek = require('../public/dictionary.json');
 
 // Get all diccionary
-router.get("/dictionary", (req, res) => {
+router.get("/", (req, res) => {
     res.render("dictionary", {
         title: 'Diccionario',
         words: jsonNenek
     })
+});
+
+router.get("/dictionary", (req, res) => {
+    res.send(dictionary.allDictionary())
 });
 
 router.get("/es/:query", (req, res) => {
