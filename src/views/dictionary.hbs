@@ -1,0 +1,25 @@
+<div class="col-md-12">
+    <div class="card border-primary text-white mb-3">
+        <div class="card-header">
+            <h1>{{title}}</h1>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead class="table-dark">
+                    <th>Palabra Español</th>
+                    <th>Palabra Tenek</th>
+                    <th>Descripcion</th>
+                </thead>
+                <tbody>
+                    {{#each words}}
+                        <tr>
+                            <td><strong>{{pal_esp}}</strong></td>
+                            <td><strong>{{pal_tenek}}</strong></td>
+                            <td><p>{{significado}}</p></td>
+                        </tr>
+                    {{/each}}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

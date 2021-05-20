@@ -1,0 +1,32 @@
+{
+  "name": "tenek-service",
+  "version": "1.0.0",
+  "description": "Servicio de diccionario en tenek",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index"
+  },
+  "keywords": [],
+  "author": "terry0022",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "nodemon": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terry0022/tenek-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/terry0022/tenek-service/issues"
+  },
+  "homepage": "https://github.com/terry0022/tenek-service#readme"
+}
