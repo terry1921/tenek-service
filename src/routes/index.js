@@ -1,13 +1,18 @@
 const { Router } = require('express');
 const router = Router();
-let jsonNenek = require('../public/neneks.json');
+const dictionary = require('../words.js');
+let jsonNenek = require('../public/dictionary.json');
 
 // Get all diccionary
-router.get("/dictionary", (req, res) => {
+router.get("/", (req, res) => {
     res.render("dictionary", {
         title: 'Diccionario',
         words: jsonNenek
     })
+});
+
+router.get("/dictionary", (req, res) => {
+    res.send(dictionary.allDictionary())
 });
 
 router.get("/es/:query", (req, res) => {
@@ -41,12 +46,12 @@ var searchname = function(json, query, index){
     for(var i = 0; i < json.length; i++) {
         if (json[i][index].indexOf(query)>-1){
             const data = {
-                _id: json[i]['_id'],
-                num_pal: json[i]['num_pal'],
+                id: json[i]['_id'],
+                number_word: json[i]['num_pal'],
                 query: query,
-                pal_tenek: json[i]['pal_tenek'],
-                pal_esp: json[i]['pal_esp'],
-                significado: json[i]['significado']
+                tenek_word: json[i]['pal_tenek'],
+                spanish_word: json[i]['pal_esp'],
+                description: json[i]['significado']
             }
             array.push(data)
         }
