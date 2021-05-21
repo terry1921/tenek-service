@@ -1,15 +1,19 @@
 {
   "name": "tenek-service",
   "version": "1.0.0",
-  "description": "Servicio de diccionario en tenek",
+  "description": "Dictionary service for tenek language / Spanish",
   "main": "index.js",
   "scripts": {
     "start": "node src/index",
     "dev": "nodemon src/index"
   },
+  "funding": {
+    "type" : "individual",
+    "url" : "https://creadores.fans/terry_rockstar"
+  },
   "keywords": [],
   "author": "terry0022",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
