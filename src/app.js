@@ -10,6 +10,7 @@ const app = express()
 const secret = '951asd357pom'
 
 // settings
+app.disable("x-powered-by");
 app.set('port', process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
 app.engine('.hbs', exphbs({

@@ -43,15 +43,16 @@ router.get("/tk/:query", (req, res) => {
 
 var searchname = function(json, query, index){
     var array = []
-    for(var i = 0; i < json.length; i++) {
-        if (json[i][index].indexOf(query)>-1){
+    for (let value of json) {
+        if (value[index].toLowerCase().indexOf(query.toLowerCase())>-1) {
+            console.log(value)
             const data = {
-                id: json[i]['_id'],
-                number_word: json[i]['num_pal'],
+                id: value['_id'],
+                number_word: value['num_pal'],
                 query: query,
-                tenek_word: json[i]['pal_tenek'],
-                spanish_word: json[i]['pal_esp'],
-                description: json[i]['significado']
+                tenek_word: value['pal_tenek'],
+                spanish_word: value['pal_esp'],
+                description: value['significado']
             }
             array.push(data)
         }
