@@ -1,11 +1,28 @@
 # Tenek dictionary service
 
-Servicio de diccionario tenek
+Dictionary service for tenek language / Spanish
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/terry0022/tenek-service/wiki)
+You can find much more about how to use this project in our [Wiki](https://github.com/terry0022/tenek-service/wiki)
 
-## Autores ✒️
+## REST
 
-* **Terry0022** - *Trabajo Inicial* - [Terry0022](https://github.com/terry0022)
+|Method| Service | Description |
+| -- |--|--|
+| GET | /dictionary | get all dicctionary in json format |
+| GET | /es/{query} | search word in spanish |
+| GET | /tk/{query} | search word in tenek |
+
+## Authors ✒️
+
+* **Enrique Espinoza** - *Initial work* - [Terry0022](https://github.com/terry0022)
+
+## LICENSE  📄
+
+This project is under the License (Unlicense) - look at the file [UNLICENSE](https://github.com/terry0022/tenek-service/UNLICENSE)  for details
+
+## Thank you so much  🎁
+
+-   Tell others about this project  📢
+-   Invite a beer  🍺  or a coffee  ☕  https://creadores.fans/terry_rockstar
