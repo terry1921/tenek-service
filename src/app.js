@@ -11,7 +11,7 @@ const app = express()
 const secret = '951asd357pom'
 
 const corsOptions = {
-    origin: 'editor.swagger.io'
+    origin: 'https://editor.swagger.io'
 };
 
 // settings
