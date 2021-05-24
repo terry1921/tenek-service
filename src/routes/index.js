@@ -5,6 +5,11 @@ let jsonNenek = require('../public/dictionary.json');
 
 // Get all diccionary
 router.get("/", (req, res) => {
+    res.render("index")
+});
+
+// Get all diccionary
+router.get("/all", (req, res) => {
     res.render("dictionary", {
         title: 'Diccionario',
         words: jsonNenek
