@@ -21,30 +21,25 @@ router.get("/dictionary", (req, res) => {
 });
 
 router.get("/es/:query", (req, res) => {
-    var index = searchname(jsonNenek, req.params.query, "pal_esp");
-    if(index == -1) {
-        const data = {
-            error: 404,
-            message: "Not Found"
-        }
-        res.send(data)
-    } else {
-        res.send(index)
-    }
+    parseSearch("pal_esp", req.params.query, res)
 })
 
 router.get("/tk/:query", (req, res) => {
-    var index = searchname(jsonNenek, req.params.query, "pal_tenek");
+    parseSearch("pal_tenek", req.params.query, res)
+})
+
+function parseSearch(type, query, res) {
+    var index = searchname(jsonNenek, query, type);
     if(index.length < 1) {
         const data = {
             error: 404,
             message: "Not Found"
         }
-        res.send(data)
+        res.status(404).send(data)
     } else {
-        res.send(index)
+        res.status(200).send(index)
     }
-})
+}
 
 var searchname = function(json, query, index){
     var array = []

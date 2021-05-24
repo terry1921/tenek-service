@@ -10,8 +10,12 @@ var cors = require('cors')
 const app = express()
 const secret = '951asd357pom'
 
+let corsOptions = {
+    origin: 'https://editor.swagger.io/' // Compliant
+};
+
 // settings
-app.use(cors())
+app.use(cors(corsOptions))
 app.disable("x-powered-by");
 app.set('port', process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));

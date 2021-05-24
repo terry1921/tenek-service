@@ -1,0 +1,132 @@
+swagger: "2.0"
+info:
+  description: "Servicio de Traductor Tenek Español"
+  version: "1.0.1"
+  title: "Tenek Translate Service"
+  termsOfService: "http://swagger.io/terms/"
+  contact:
+    email: "terryrockstar22@gmail.com"
+  license:
+    name: "Unlicense"
+    url: "https://unlicense.org"
+host: "tenek-service.herokuapp.com"
+basePath: "/"
+tags:
+- name: "dictionary"
+  description: "All dictionary in this repository"
+- name: "es"
+  description: "Translates on spanish"
+- name: "tk"
+  description: "Translates on spanish"
+schemes:
+- "https"
+paths:
+  /dictionary:
+    get:
+      tags:
+      - "dictionary"
+      summary: "Get all dictionary on this repository"
+      description: "Repository of words in tenek and Spanish"
+      produces:
+      - "application/json"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/Words"
+        "404":
+          description: "Word not found"
+          schema:
+            $ref: "#/definitions/NotFound"
+  /es/{query}:
+    get:
+      tags:
+      - "es"
+      summary: "Get translate for spanish to tenek language"
+      description: ""
+      produces:
+      - "application/json"
+      parameters: 
+      - name: "query"
+        in: "path"
+        description: "query to search translate"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/Translate"
+        "404":
+          description: "Word not found"
+          schema:
+            $ref: "#/definitions/NotFound"
+  /tk/{query}:
+    get:
+      tags:
+      - "tk"
+      summary: "Get translate for tenek language to spanish"
+      description: ""
+      produces:
+      - "application/json"
+      parameters: 
+      - name: "query"
+        in: "path"
+        description: "query to search translate"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "array"
+            items:
+              $ref: "#/definitions/Translate"
+        "404":
+          description: "Word not found"
+          schema:
+            $ref: "#/definitions/NotFound"
+definitions:
+  Words:
+    type: "object"
+    properties:
+      _id:
+        type: "integer"
+      pal_tenek: 
+        type: "string"
+      pal_esp: 
+        type: "string"
+      significado: 
+        type: "string"
+      ejemplo_tenek: 
+        type: "string"
+      ejemplo_esp: 
+        type: "string"
+      num_pal: 
+        type: "integer"
+  NotFound: 
+    type: "object"
+    properties:
+      error: 
+        type: "integer"
+      message: 
+        type: "string"
+  Translate:
+    type: "object"
+    properties:
+      id:
+        type: "integer"
+      number_word: 
+        type: "integer"
+      query: 
+        type: "string"
+      tenek_word: 
+        type: "string"
+      spanish_word: 
+        type: "string"
+      description: 
+        type: "string"
