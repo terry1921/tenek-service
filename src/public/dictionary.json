@@ -18457,5 +18457,4639 @@
     "ejemplo_tenek": "Uluwáb jayej kuchidh.",
     "ejemplo_esp": "falta editar",
     "num_pal": 2051
+  },
+  {
+    "_id": 2058,
+    "num_pal": 2052,
+    "pal_tenek": "¿janta' bij?",
+    "pal_esp": "¿como te llamas?",
+    "significado": ""
+  },
+  {
+    "_id": 2059,
+    "num_pal": 2053,
+    "pal_tenek": "jayki' tam",
+    "pal_esp": "¿Cuándo entonces?",
+    "significado": ""
+  },
+  {
+    "_id": 2060,
+    "num_pal": 2054,
+    "pal_tenek": "ja'its tam",
+    "pal_esp": "¿cuanto es?",
+    "significado": ""
+  },
+  {
+    "_id": 2061,
+    "num_pal": 2055,
+    "pal_tenek": "ju'taj ti k'wajat, ¿jonti k'wajat?",
+    "pal_esp": "¿donde esta?",
+    "significado": ""
+  },
+  {
+    "_id": 2062,
+    "num_pal": 2056,
+    "pal_tenek": "ti",
+    "pal_esp": "a, hacia",
+    "significado": ""
+  },
+  {
+    "_id": 2063,
+    "num_pal": 2057,
+    "pal_tenek": "alāl",
+    "pal_esp": "abajo",
+    "significado": ""
+  },
+  {
+    "_id": 2064,
+    "num_pal": 2058,
+    "pal_tenek": "jithkonēnek",
+    "pal_esp": "aborto",
+    "significado": ""
+  },
+  {
+    "_id": 2065,
+    "num_pal": 2059,
+    "pal_tenek": "k'al welal (an kamish)",
+    "pal_esp": "ábrase (la camisa)",
+    "significado": ""
+  },
+  {
+    "_id": 2066,
+    "num_pal": 2060,
+    "pal_tenek": "wātiyal",
+    "pal_esp": "abrigar",
+    "significado": ""
+  },
+  {
+    "_id": 2067,
+    "num_pal": 2061,
+    "pal_tenek": "ts’a’al",
+    "pal_esp": "abrir",
+    "significado": ""
+  },
+  {
+    "_id": 2068,
+    "num_pal": 2062,
+    "pal_tenek": "welāl",
+    "pal_esp": "abrir",
+    "significado": ""
+  },
+  {
+    "_id": 2069,
+    "num_pal": 2063,
+    "pal_tenek": "āch",
+    "pal_esp": "abuela",
+    "significado": ""
+  },
+  {
+    "_id": 2070,
+    "num_pal": 2064,
+    "pal_tenek": "mām",
+    "pal_esp": "abuelo",
+    "significado": ""
+  },
+  {
+    "_id": 2071,
+    "num_pal": 2065,
+    "pal_tenek": "ki",
+    "pal_esp": "acá",
+    "significado": ""
+  },
+  {
+    "_id": 2072,
+    "num_pal": 2066,
+    "pal_tenek": "jich",
+    "pal_esp": "acamaya",
+    "significado": ""
+  },
+  {
+    "_id": 2073,
+    "num_pal": 2067,
+    "pal_tenek": "tomkilāb",
+    "pal_esp": "acción de casarse",
+    "significado": ""
+  },
+  {
+    "_id": 2074,
+    "num_pal": 2068,
+    "pal_tenek": "aichishtalāb",
+    "pal_esp": "acción de esperar",
+    "significado": ""
+  },
+  {
+    "_id": 2075,
+    "num_pal": 2069,
+    "pal_tenek": "kulbetalāb",
+    "pal_esp": "acción de estar contento, alegría",
+    "significado": ""
+  },
+  {
+    "_id": 2076,
+    "num_pal": 2070,
+    "pal_tenek": "kuatsat",
+    "pal_esp": "acostarse",
+    "significado": ""
+  },
+  {
+    "_id": 2077,
+    "num_pal": 2071,
+    "pal_tenek": "kuētsiy",
+    "pal_esp": "acostarse",
+    "significado": ""
+  },
+  {
+    "_id": 2078,
+    "num_pal": 2072,
+    "pal_tenek": "pak’uch",
+    "pal_esp": "acostarse boca abajo",
+    "significado": ""
+  },
+  {
+    "_id": 2079,
+    "num_pal": 2073,
+    "pal_tenek": "k'al kuetsey",
+    "pal_esp": "acuéstese",
+    "significado": ""
+  },
+  {
+    "_id": 2080,
+    "num_pal": 2074,
+    "pal_tenek": "kuatsiy",
+    "pal_esp": "acuéstese",
+    "significado": ""
+  },
+  {
+    "_id": 2081,
+    "num_pal": 2075,
+    "pal_tenek": "āl",
+    "pal_esp": "adentro",
+    "significado": ""
+  },
+  {
+    "_id": 2082,
+    "num_pal": 2076,
+    "pal_tenek": "āl, ālta, tin āl",
+    "pal_esp": "adentro",
+    "significado": ""
+  },
+  {
+    "_id": 2083,
+    "num_pal": 2077,
+    "pal_tenek": "tī",
+    "pal_esp": "afirmativo, verdadero",
+    "significado": ""
+  },
+  {
+    "_id": 2084,
+    "num_pal": 2078,
+    "pal_tenek": "eleb",
+    "pal_esp": "afuera",
+    "significado": ""
+  },
+  {
+    "_id": 2085,
+    "num_pal": 2079,
+    "pal_tenek": "pákul",
+    "pal_esp": "agacharse",
+    "significado": ""
+  },
+  {
+    "_id": 2086,
+    "num_pal": 2080,
+    "pal_tenek": "ja'",
+    "pal_esp": "agua",
+    "significado": ""
+  },
+  {
+    "_id": 2087,
+    "num_pal": 2081,
+    "pal_tenek": "tíu",
+    "pal_esp": "águila",
+    "significado": ""
+  },
+  {
+    "_id": 2088,
+    "num_pal": 2082,
+    "pal_tenek": "shuki",
+    "pal_esp": "ahora",
+    "significado": ""
+  },
+  {
+    "_id": 2089,
+    "num_pal": 2083,
+    "pal_tenek": "ik’",
+    "pal_esp": "aire",
+    "significado": ""
+  },
+  {
+    "_id": 2090,
+    "num_pal": 2084,
+    "pal_tenek": "jita",
+    "pal_esp": "alguien",
+    "significado": ""
+  },
+  {
+    "_id": 2091,
+    "num_pal": 2085,
+    "pal_tenek": "nā’",
+    "pal_esp": "allá",
+    "significado": ""
+  },
+  {
+    "_id": 2092,
+    "num_pal": 2086,
+    "pal_tenek": "tiwa’",
+    "pal_esp": "allá",
+    "significado": ""
+  },
+  {
+    "_id": 2093,
+    "num_pal": 2087,
+    "pal_tenek": "wa",
+    "pal_esp": "allá",
+    "significado": ""
+  },
+  {
+    "_id": 2094,
+    "num_pal": 2088,
+    "pal_tenek": "almutalāb",
+    "pal_esp": "almorzar, almuerzo",
+    "significado": ""
+  },
+  {
+    "_id": 2095,
+    "num_pal": 2089,
+    "pal_tenek": "ts’a’ik",
+    "pal_esp": "amargo",
+    "significado": ""
+  },
+  {
+    "_id": 2096,
+    "num_pal": 2090,
+    "pal_tenek": "manunūl",
+    "pal_esp": "amarillento",
+    "significado": ""
+  },
+  {
+    "_id": 2097,
+    "num_pal": 2091,
+    "pal_tenek": "manū",
+    "pal_esp": "amarillo",
+    "significado": ""
+  },
+  {
+    "_id": 2098,
+    "num_pal": 2092,
+    "pal_tenek": "ja’ūb",
+    "pal_esp": "amigo",
+    "significado": ""
+  },
+  {
+    "_id": 2099,
+    "num_pal": 2093,
+    "pal_tenek": "tsikuth",
+    "pal_esp": "ancho",
+    "significado": ""
+  },
+  {
+    "_id": 2100,
+    "num_pal": 2094,
+    "pal_tenek": "tsikuel",
+    "pal_esp": "anchura",
+    "significado": ""
+  },
+  {
+    "_id": 2101,
+    "num_pal": 2095,
+    "pal_tenek": "bēlelma’",
+    "pal_esp": "andariego, caminante",
+    "significado": ""
+  },
+  {
+    "_id": 2102,
+    "num_pal": 2096,
+    "pal_tenek": "shijāl",
+    "pal_esp": "ansioso",
+    "significado": ""
+  },
+  {
+    "_id": 2103,
+    "num_pal": 2097,
+    "pal_tenek": "okosh",
+    "pal_esp": "antes",
+    "significado": ""
+  },
+  {
+    "_id": 2104,
+    "num_pal": 2098,
+    "pal_tenek": "tsabki",
+    "pal_esp": "antier",
+    "significado": ""
+  },
+  {
+    "_id": 2105,
+    "num_pal": 2099,
+    "pal_tenek": "tamub",
+    "pal_esp": "año, años",
+    "significado": ""
+  },
+  {
+    "_id": 2106,
+    "num_pal": 2100,
+    "pal_tenek": "pīl",
+    "pal_esp": "aparte, separado",
+    "significado": ""
+  },
+  {
+    "_id": 2107,
+    "num_pal": 2101,
+    "pal_tenek": "kāshiy",
+    "pal_esp": "apestoso",
+    "significado": ""
+  },
+  {
+    "_id": 2108,
+    "num_pal": 2102,
+    "pal_tenek": "kubāl",
+    "pal_esp": "apoyar, de pie",
+    "significado": ""
+  },
+  {
+    "_id": 2109,
+    "num_pal": 2103,
+    "pal_tenek": "thubāl",
+    "pal_esp": "apurarse",
+    "significado": ""
+  },
+  {
+    "_id": 2110,
+    "num_pal": 2104,
+    "pal_tenek": "te'",
+    "pal_esp": "aquí, por aquí",
+    "significado": ""
+  },
+  {
+    "_id": 2111,
+    "num_pal": 2105,
+    "pal_tenek": "ām",
+    "pal_esp": "araña",
+    "significado": ""
+  },
+  {
+    "_id": 2112,
+    "num_pal": 2106,
+    "pal_tenek": "te",
+    "pal_esp": "árbol, madera",
+    "significado": ""
+  },
+  {
+    "_id": 2113,
+    "num_pal": 2107,
+    "pal_tenek": "ot’el",
+    "pal_esp": "ardilla",
+    "significado": ""
+  },
+  {
+    "_id": 2114,
+    "num_pal": 2108,
+    "pal_tenek": "thinuk",
+    "pal_esp": "ardor",
+    "significado": ""
+  },
+  {
+    "_id": 2115,
+    "num_pal": 2109,
+    "pal_tenek": "tail",
+    "pal_esp": "ardor, quemar",
+    "significado": ""
+  },
+  {
+    "_id": 2116,
+    "num_pal": 2110,
+    "pal_tenek": "batab",
+    "pal_esp": "armadillo",
+    "significado": ""
+  },
+  {
+    "_id": 2117,
+    "num_pal": 2111,
+    "pal_tenek": "bothoyal",
+    "pal_esp": "arrastrar",
+    "significado": ""
+  },
+  {
+    "_id": 2118,
+    "num_pal": 2112,
+    "pal_tenek": "walk’ī",
+    "pal_esp": "arriba de",
+    "significado": ""
+  },
+  {
+    "_id": 2119,
+    "num_pal": 2113,
+    "pal_tenek": "ani’",
+    "pal_esp": "así",
+    "significado": ""
+  },
+  {
+    "_id": 2120,
+    "num_pal": 2114,
+    "pal_tenek": "k'wājwua",
+    "pal_esp": "asiente",
+    "significado": ""
+  },
+  {
+    "_id": 2121,
+    "num_pal": 2115,
+    "pal_tenek": "manath",
+    "pal_esp": "áspero",
+    "significado": ""
+  },
+  {
+    "_id": 2122,
+    "num_pal": 2116,
+    "pal_tenek": "watab",
+    "pal_esp": "atole",
+    "significado": ""
+  },
+  {
+    "_id": 2123,
+    "num_pal": 2117,
+    "pal_tenek": "tonk’wiyel",
+    "pal_esp": "atorar",
+    "significado": ""
+  },
+  {
+    "_id": 2124,
+    "num_pal": 2118,
+    "pal_tenek": "almel",
+    "pal_esp": "aumenta de peso",
+    "significado": ""
+  },
+  {
+    "_id": 2125,
+    "num_pal": 2119,
+    "pal_tenek": "ti we'el",
+    "pal_esp": "ayer",
+    "significado": ""
+  },
+  {
+    "_id": 2126,
+    "num_pal": 2120,
+    "pal_tenek": "we'el",
+    "pal_esp": "ayer",
+    "significado": ""
+  },
+  {
+    "_id": 2127,
+    "num_pal": 2121,
+    "pal_tenek": "achim",
+    "pal_esp": "bañarse, bañar",
+    "significado": ""
+  },
+  {
+    "_id": 2128,
+    "num_pal": 2122,
+    "pal_tenek": "ithim",
+    "pal_esp": "barba o bigote",
+    "significado": ""
+  },
+  {
+    "_id": 2129,
+    "num_pal": 2123,
+    "pal_tenek": "amūl",
+    "pal_esp": "basura",
+    "significado": ""
+  },
+  {
+    "_id": 2130,
+    "num_pal": 2124,
+    "pal_tenek": "uts’āl",
+    "pal_esp": "beber",
+    "significado": ""
+  },
+  {
+    "_id": 2131,
+    "num_pal": 2125,
+    "pal_tenek": "tomnāl",
+    "pal_esp": "beneficiar",
+    "significado": ""
+  },
+  {
+    "_id": 2132,
+    "num_pal": 2126,
+    "pal_tenek": "alwa kix ulits; alwa' ultaláb",
+    "pal_esp": "bienvenidos",
+    "significado": ""
+  },
+  {
+    "_id": 2133,
+    "num_pal": 2127,
+    "pal_tenek": "thakni’",
+    "pal_esp": "blanco",
+    "significado": ""
+  },
+  {
+    "_id": 2134,
+    "num_pal": 2128,
+    "pal_tenek": "palu",
+    "pal_esp": "blando",
+    "significado": ""
+  },
+  {
+    "_id": 2135,
+    "num_pal": 2129,
+    "pal_tenek": "wi’",
+    "pal_esp": "boca, labios",
+    "significado": ""
+  },
+  {
+    "_id": 2136,
+    "num_pal": 2130,
+    "pal_tenek": "alabēl",
+    "pal_esp": "bonita, bonito",
+    "significado": ""
+  },
+  {
+    "_id": 2137,
+    "num_pal": 2131,
+    "pal_tenek": "wilel in ok",
+    "pal_esp": "borracho",
+    "significado": ""
+  },
+  {
+    "_id": 2138,
+    "num_pal": 2132,
+    "pal_tenek": "ts’a’ashbāl",
+    "pal_esp": "bostezar",
+    "significado": ""
+  },
+  {
+    "_id": 2139,
+    "num_pal": 2133,
+    "pal_tenek": "jolthi",
+    "pal_esp": "brasero",
+    "significado": ""
+  },
+  {
+    "_id": 2140,
+    "num_pal": 2134,
+    "pal_tenek": "akob",
+    "pal_esp": "brazo",
+    "significado": ""
+  },
+  {
+    "_id": 2141,
+    "num_pal": 2135,
+    "pal_tenek": "okob",
+    "pal_esp": "brazo",
+    "significado": ""
+  },
+  {
+    "_id": 2142,
+    "num_pal": 2136,
+    "pal_tenek": "thiman",
+    "pal_esp": "brujo",
+    "significado": ""
+  },
+  {
+    "_id": 2143,
+    "num_pal": 2137,
+    "pal_tenek": "thanku nēnek",
+    "pal_esp": "buenas noches",
+    "significado": ""
+  },
+  {
+    "_id": 2144,
+    "num_pal": 2138,
+    "pal_tenek": "waklenēnek",
+    "pal_esp": "buenas tardes",
+    "significado": ""
+  },
+  {
+    "_id": 2145,
+    "num_pal": 2139,
+    "pal_tenek": "alhua'",
+    "pal_esp": "bueno, bien",
+    "significado": ""
+  },
+  {
+    "_id": 2146,
+    "num_pal": 2140,
+    "pal_tenek": "tajka’nēnek",
+    "pal_esp": "buenos días",
+    "significado": ""
+  },
+  {
+    "_id": 2147,
+    "num_pal": 2141,
+    "pal_tenek": "wajuts",
+    "pal_esp": "búho, tecolote",
+    "significado": ""
+  },
+  {
+    "_id": 2148,
+    "num_pal": 2142,
+    "pal_tenek": "bichim",
+    "pal_esp": "caballo",
+    "significado": ""
+  },
+  {
+    "_id": 2149,
+    "num_pal": 2143,
+    "pal_tenek": "shi' il",
+    "pal_esp": "cabello",
+    "significado": ""
+  },
+  {
+    "_id": 2150,
+    "num_pal": 2144,
+    "pal_tenek": "ōk’",
+    "pal_esp": "cabeza",
+    "significado": ""
+  },
+  {
+    "_id": 2151,
+    "num_pal": 2145,
+    "pal_tenek": "kuekēm",
+    "pal_esp": "cadera",
+    "significado": ""
+  },
+  {
+    "_id": 2152,
+    "num_pal": 2146,
+    "pal_tenek": "tijkan",
+    "pal_esp": "caerse",
+    "significado": ""
+  },
+  {
+    "_id": 2153,
+    "num_pal": 2147,
+    "pal_tenek": "kapēl",
+    "pal_esp": "café (bebida)",
+    "significado": ""
+  },
+  {
+    "_id": 2154,
+    "num_pal": 2148,
+    "pal_tenek": "tsōkoy",
+    "pal_esp": "café (color)",
+    "significado": ""
+  },
+  {
+    "_id": 2155,
+    "num_pal": 2149,
+    "pal_tenek": "kālam",
+    "pal_esp": "calabaza",
+    "significado": ""
+  },
+  {
+    "_id": 2156,
+    "num_pal": 2150,
+    "pal_tenek": "bichan",
+    "pal_esp": "calambre",
+    "significado": ""
+  },
+  {
+    "_id": 2157,
+    "num_pal": 2151,
+    "pal_tenek": "k’ochban",
+    "pal_esp": "calambre",
+    "significado": ""
+  },
+  {
+    "_id": 2158,
+    "num_pal": 2152,
+    "pal_tenek": "oyo’ thubā",
+    "pal_esp": "calandria",
+    "significado": ""
+  },
+  {
+    "_id": 2159,
+    "num_pal": 2153,
+    "pal_tenek": "k’āk’el",
+    "pal_esp": "calentura",
+    "significado": ""
+  },
+  {
+    "_id": 2160,
+    "num_pal": 2154,
+    "pal_tenek": "k’āk’",
+    "pal_esp": "caliente",
+    "significado": ""
+  },
+  {
+    "_id": 2161,
+    "num_pal": 2155,
+    "pal_tenek": "kuē kuē",
+    "pal_esp": "callado",
+    "significado": ""
+  },
+  {
+    "_id": 2162,
+    "num_pal": 2156,
+    "pal_tenek": "tsey",
+    "pal_esp": "cama",
+    "significado": ""
+  },
+  {
+    "_id": 2163,
+    "num_pal": 2157,
+    "pal_tenek": "bēlal",
+    "pal_esp": "caminar, andar",
+    "significado": ""
+  },
+  {
+    "_id": 2164,
+    "num_pal": 2158,
+    "pal_tenek": "ith",
+    "pal_esp": "camote",
+    "significado": ""
+  },
+  {
+    "_id": 2165,
+    "num_pal": 2159,
+    "pal_tenek": "tsekel",
+    "pal_esp": "cansancio, cansado, cansarse",
+    "significado": ""
+  },
+  {
+    "_id": 2166,
+    "num_pal": 2160,
+    "pal_tenek": "wal",
+    "pal_esp": "cara, ojo",
+    "significado": ""
+  },
+  {
+    "_id": 2167,
+    "num_pal": 2161,
+    "pal_tenek": "tulek",
+    "pal_esp": "carne",
+    "significado": ""
+  },
+  {
+    "_id": 2168,
+    "num_pal": 2162,
+    "pal_tenek": "tulek ōlom",
+    "pal_esp": "carne de puerco",
+    "significado": ""
+  },
+  {
+    "_id": 2169,
+    "num_pal": 2163,
+    "pal_tenek": "atāj, atā",
+    "pal_esp": "casa",
+    "significado": ""
+  },
+  {
+    "_id": 2170,
+    "num_pal": 2164,
+    "pal_tenek": "tomkith",
+    "pal_esp": "casado",
+    "significado": ""
+  },
+  {
+    "_id": 2171,
+    "num_pal": 2165,
+    "pal_tenek": "tomkin",
+    "pal_esp": "casarse",
+    "significado": ""
+  },
+  {
+    "_id": 2172,
+    "num_pal": 2166,
+    "pal_tenek": "laju tse'",
+    "pal_esp": "catorce",
+    "significado": ""
+  },
+  {
+    "_id": 2173,
+    "num_pal": 2167,
+    "pal_tenek": "mātab",
+    "pal_esp": "cejas",
+    "significado": ""
+  },
+  {
+    "_id": 2174,
+    "num_pal": 2168,
+    "pal_tenek": "tatam",
+    "pal_esp": "cenzontle",
+    "significado": ""
+  },
+  {
+    "_id": 2175,
+    "num_pal": 2169,
+    "pal_tenek": "utat",
+    "pal_esp": "cerca",
+    "significado": ""
+  },
+  {
+    "_id": 2176,
+    "num_pal": 2170,
+    "pal_tenek": "olom",
+    "pal_esp": "cerdo",
+    "significado": ""
+  },
+  {
+    "_id": 2177,
+    "num_pal": 2171,
+    "pal_tenek": "p'opo, ou",
+    "pal_esp": "cero",
+    "significado": ""
+  },
+  {
+    "_id": 2178,
+    "num_pal": 2172,
+    "pal_tenek": "maputh",
+    "pal_esp": "cerrado",
+    "significado": ""
+  },
+  {
+    "_id": 2179,
+    "num_pal": 2173,
+    "pal_tenek": "ekuet",
+    "pal_esp": "chachalaca",
+    "significado": ""
+  },
+  {
+    "_id": 2180,
+    "num_pal": 2174,
+    "pal_tenek": "tsiū",
+    "pal_esp": "chayote",
+    "significado": ""
+  },
+  {
+    "_id": 2181,
+    "num_pal": 2175,
+    "pal_tenek": "its",
+    "pal_esp": "chile",
+    "significado": ""
+  },
+  {
+    "_id": 2182,
+    "num_pal": 2176,
+    "pal_tenek": "thaytham",
+    "pal_esp": "chinche",
+    "significado": ""
+  },
+  {
+    "_id": 2183,
+    "num_pal": 2177,
+    "pal_tenek": "thachi",
+    "pal_esp": "chinches de pollo",
+    "significado": ""
+  },
+  {
+    "_id": 2184,
+    "num_pal": 2178,
+    "pal_tenek": "chunun",
+    "pal_esp": "Chuparosa",
+    "significado": ""
+  },
+  {
+    "_id": 2185,
+    "num_pal": 2179,
+    "pal_tenek": "t’ot’oy",
+    "pal_esp": "cicatriz",
+    "significado": ""
+  },
+  {
+    "_id": 2186,
+    "num_pal": 2180,
+    "pal_tenek": "jun ciento",
+    "pal_esp": "cien",
+    "significado": ""
+  },
+  {
+    "_id": 2187,
+    "num_pal": 2181,
+    "pal_tenek": "jún ciento k'al tsáb inik",
+    "pal_esp": "ciento cuarenta",
+    "significado": ""
+  },
+  {
+    "_id": 2188,
+    "num_pal": 2182,
+    "pal_tenek": "jún ciento k'al tsé' inik",
+    "pal_esp": "ciento ochenta",
+    "significado": ""
+  },
+  {
+    "_id": 2189,
+    "num_pal": 2183,
+    "pal_tenek": "jún ciento k'al óx inik",
+    "pal_esp": "ciento sesenta",
+    "significado": ""
+  },
+  {
+    "_id": 2190,
+    "num_pal": 2184,
+    "pal_tenek": "jún ciento k'al jún inik",
+    "pal_esp": "ciento veinte",
+    "significado": ""
+  },
+  {
+    "_id": 2191,
+    "num_pal": 2185,
+    "pal_tenek": "ichkilin",
+    "pal_esp": "cigarra",
+    "significado": ""
+  },
+  {
+    "_id": 2192,
+    "num_pal": 2186,
+    "pal_tenek": "bo'",
+    "pal_esp": "cinco",
+    "significado": ""
+  },
+  {
+    "_id": 2193,
+    "num_pal": 2187,
+    "pal_tenek": "tsáb inik laju",
+    "pal_esp": "cincuenta",
+    "significado": ""
+  },
+  {
+    "_id": 2194,
+    "num_pal": 2188,
+    "pal_tenek": "ts'ējel a kush",
+    "pal_esp": "cintura",
+    "significado": ""
+  },
+  {
+    "_id": 2195,
+    "num_pal": 2189,
+    "pal_tenek": "kuthīno",
+    "pal_esp": "cocina",
+    "significado": ""
+  },
+  {
+    "_id": 2196,
+    "num_pal": 2190,
+    "pal_tenek": "tiyīk",
+    "pal_esp": "codo",
+    "significado": ""
+  },
+  {
+    "_id": 2197,
+    "num_pal": 2191,
+    "pal_tenek": "k’uets’e’",
+    "pal_esp": "cojo",
+    "significado": ""
+  },
+  {
+    "_id": 2198,
+    "num_pal": 2192,
+    "pal_tenek": "chunūn",
+    "pal_esp": "colibrí",
+    "significado": ""
+  },
+  {
+    "_id": 2199,
+    "num_pal": 2193,
+    "pal_tenek": "tālish",
+    "pal_esp": "cólico, torzón",
+    "significado": ""
+  },
+  {
+    "_id": 2200,
+    "num_pal": 2194,
+    "pal_tenek": "bolo’l",
+    "pal_esp": "columna",
+    "significado": ""
+  },
+  {
+    "_id": 2201,
+    "num_pal": 2195,
+    "pal_tenek": "takab",
+    "pal_esp": "comal",
+    "significado": ""
+  },
+  {
+    "_id": 2202,
+    "num_pal": 2196,
+    "pal_tenek": "k’apul – comer, in k’apul",
+    "pal_esp": "come",
+    "significado": ""
+  },
+  {
+    "_id": 2203,
+    "num_pal": 2197,
+    "pal_tenek": "ts’ikīy",
+    "pal_esp": "comezón",
+    "significado": ""
+  },
+  {
+    "_id": 2204,
+    "num_pal": 2198,
+    "pal_tenek": "k’apnēl",
+    "pal_esp": "comida",
+    "significado": ""
+  },
+  {
+    "_id": 2205,
+    "num_pal": 2199,
+    "pal_tenek": "jāntitha",
+    "pal_esp": "cómo",
+    "significado": ""
+  },
+  {
+    "_id": 2206,
+    "num_pal": 2200,
+    "pal_tenek": "janto",
+    "pal_esp": "cómo, con qué, cuál",
+    "significado": ""
+  },
+  {
+    "_id": 2207,
+    "num_pal": 2201,
+    "pal_tenek": "kuēnchal",
+    "pal_esp": "comunidad, pueblo, ciudad",
+    "significado": ""
+  },
+  {
+    "_id": 2208,
+    "num_pal": 2202,
+    "pal_tenek": "ejētnal",
+    "pal_esp": "con cuidado",
+    "significado": ""
+  },
+  {
+    "_id": 2209,
+    "num_pal": 2203,
+    "pal_tenek": "ts’ebat",
+    "pal_esp": "con sueño, adormecido",
+    "significado": ""
+  },
+  {
+    "_id": 2210,
+    "num_pal": 2204,
+    "pal_tenek": "k'al",
+    "pal_esp": "con, propio, suyo, de sí",
+    "significado": ""
+  },
+  {
+    "_id": 2211,
+    "num_pal": 2205,
+    "pal_tenek": "koy",
+    "pal_esp": "conejo",
+    "significado": ""
+  },
+  {
+    "_id": 2212,
+    "num_pal": 2206,
+    "pal_tenek": "kuetēm",
+    "pal_esp": "consigo mismo, soltero, solo",
+    "significado": ""
+  },
+  {
+    "_id": 2213,
+    "num_pal": 2207,
+    "pal_tenek": "ts’ilk'on",
+    "pal_esp": "contagiarse",
+    "significado": ""
+  },
+  {
+    "_id": 2214,
+    "num_pal": 2208,
+    "pal_tenek": "tha’ush",
+    "pal_esp": "contagioso",
+    "significado": ""
+  },
+  {
+    "_id": 2215,
+    "num_pal": 2209,
+    "pal_tenek": "kulbēl",
+    "pal_esp": "contento, contenta",
+    "significado": ""
+  },
+  {
+    "_id": 2216,
+    "num_pal": 2210,
+    "pal_tenek": "tōk’oyal",
+    "pal_esp": "contestar",
+    "significado": ""
+  },
+  {
+    "_id": 2217,
+    "num_pal": 2211,
+    "pal_tenek": "pueteltalāb",
+    "pal_esp": "convulsiones",
+    "significado": ""
+  },
+  {
+    "_id": 2218,
+    "num_pal": 2212,
+    "pal_tenek": "ichīch",
+    "pal_esp": "corazón",
+    "significado": ""
+  },
+  {
+    "_id": 2219,
+    "num_pal": 2213,
+    "pal_tenek": "kotbilālb",
+    "pal_esp": "cortadura, herida",
+    "significado": ""
+  },
+  {
+    "_id": 2220,
+    "num_pal": 2214,
+    "pal_tenek": "kotoy",
+    "pal_esp": "cortar",
+    "significado": ""
+  },
+  {
+    "_id": 2221,
+    "num_pal": 2215,
+    "pal_tenek": "chuch",
+    "pal_esp": "coyote",
+    "significado": ""
+  },
+  {
+    "_id": 2222,
+    "num_pal": 2216,
+    "pal_tenek": "pu'mēnek",
+    "pal_esp": "crecido",
+    "significado": ""
+  },
+  {
+    "_id": 2223,
+    "num_pal": 2217,
+    "pal_tenek": "jawa",
+    "pal_esp": "cuál",
+    "significado": ""
+  },
+  {
+    "_id": 2224,
+    "num_pal": 2218,
+    "pal_tenek": "juta",
+    "pal_esp": "cuál, dónde",
+    "significado": ""
+  },
+  {
+    "_id": 2225,
+    "num_pal": 2219,
+    "pal_tenek": "Jawa’chik",
+    "pal_esp": "cuales",
+    "significado": ""
+  },
+  {
+    "_id": 2226,
+    "num_pal": 2220,
+    "pal_tenek": "jaiki",
+    "pal_esp": "cuando",
+    "significado": ""
+  },
+  {
+    "_id": 2227,
+    "num_pal": 2221,
+    "pal_tenek": "tam",
+    "pal_esp": "cuando",
+    "significado": ""
+  },
+  {
+    "_id": 2228,
+    "num_pal": 2222,
+    "pal_tenek": "jaiyīl",
+    "pal_esp": "cuántas veces",
+    "significado": ""
+  },
+  {
+    "_id": 2229,
+    "num_pal": 2223,
+    "pal_tenek": "jai",
+    "pal_esp": "cuántas, cuántos",
+    "significado": ""
+  },
+  {
+    "_id": 2230,
+    "num_pal": 2224,
+    "pal_tenek": "tsáb inik",
+    "pal_esp": "cuarenta",
+    "significado": ""
+  },
+  {
+    "_id": 2231,
+    "num_pal": 2225,
+    "pal_tenek": "tsē’",
+    "pal_esp": "cuatro",
+    "significado": ""
+  },
+  {
+    "_id": 2232,
+    "num_pal": 2226,
+    "pal_tenek": "kolol",
+    "pal_esp": "cucaracha",
+    "significado": ""
+  },
+  {
+    "_id": 2233,
+    "num_pal": 2227,
+    "pal_tenek": "kutsil",
+    "pal_esp": "cuchillo",
+    "significado": ""
+  },
+  {
+    "_id": 2234,
+    "num_pal": 2228,
+    "pal_tenek": "nuk",
+    "pal_esp": "cuello",
+    "significado": ""
+  },
+  {
+    "_id": 2235,
+    "num_pal": 2229,
+    "pal_tenek": "tsok",
+    "pal_esp": "cuervo",
+    "significado": ""
+  },
+  {
+    "_id": 2236,
+    "num_pal": 2230,
+    "pal_tenek": "pich",
+    "pal_esp": "cuervo pequeño",
+    "significado": ""
+  },
+  {
+    "_id": 2237,
+    "num_pal": 2231,
+    "pal_tenek": "ko’oyal",
+    "pal_esp": "cuidar",
+    "significado": ""
+  },
+  {
+    "_id": 2238,
+    "num_pal": 2232,
+    "pal_tenek": "bāy",
+    "pal_esp": "cuñado",
+    "significado": ""
+  },
+  {
+    "_id": 2239,
+    "num_pal": 2233,
+    "pal_tenek": "thit’om",
+    "pal_esp": "curandero",
+    "significado": ""
+  },
+  {
+    "_id": 2240,
+    "num_pal": 2234,
+    "pal_tenek": "pithāl",
+    "pal_esp": "dar",
+    "significado": ""
+  },
+  {
+    "_id": 2241,
+    "num_pal": 2235,
+    "pal_tenek": "ki pitha",
+    "pal_esp": "dar, poner",
+    "significado": ""
+  },
+  {
+    "_id": 2242,
+    "num_pal": 2236,
+    "pal_tenek": "tsokikīl",
+    "pal_esp": "de color café",
+    "significado": ""
+  },
+  {
+    "_id": 2243,
+    "num_pal": 2237,
+    "pal_tenek": "alam",
+    "pal_esp": "debajo",
+    "significado": ""
+  },
+  {
+    "_id": 2244,
+    "num_pal": 2238,
+    "pal_tenek": "bil",
+    "pal_esp": "débil",
+    "significado": ""
+  },
+  {
+    "_id": 2245,
+    "num_pal": 2239,
+    "pal_tenek": "pakukūl",
+    "pal_esp": "debilitado",
+    "significado": ""
+  },
+  {
+    "_id": 2246,
+    "num_pal": 2240,
+    "pal_tenek": "kuajlilīl",
+    "pal_esp": "decaído",
+    "significado": ""
+  },
+  {
+    "_id": 2247,
+    "num_pal": 2241,
+    "pal_tenek": "ch’uchub",
+    "pal_esp": "dedo",
+    "significado": ""
+  },
+  {
+    "_id": 2248,
+    "num_pal": 2242,
+    "pal_tenek": "t’ililīl",
+    "pal_esp": "delgado",
+    "significado": ""
+  },
+  {
+    "_id": 2249,
+    "num_pal": 2243,
+    "pal_tenek": "thathat",
+    "pal_esp": "delgado",
+    "significado": ""
+  },
+  {
+    "_id": 2250,
+    "num_pal": 2244,
+    "pal_tenek": "wath’ath",
+    "pal_esp": "demasiado",
+    "significado": ""
+  },
+  {
+    "_id": 2251,
+    "num_pal": 2245,
+    "pal_tenek": "altā",
+    "pal_esp": "dentro",
+    "significado": ""
+  },
+  {
+    "_id": 2252,
+    "num_pal": 2246,
+    "pal_tenek": "te'bāl",
+    "pal_esp": "dentro de (en un tiempo)",
+    "significado": ""
+  },
+  {
+    "_id": 2253,
+    "num_pal": 2247,
+    "pal_tenek": "bōlith",
+    "pal_esp": "derecho",
+    "significado": ""
+  },
+  {
+    "_id": 2254,
+    "num_pal": 2248,
+    "pal_tenek": "k'al wilāl an botón",
+    "pal_esp": "desabotónese",
+    "significado": ""
+  },
+  {
+    "_id": 2255,
+    "num_pal": 2249,
+    "pal_tenek": "wilāl",
+    "pal_esp": "desatar, desabotonar",
+    "significado": ""
+  },
+  {
+    "_id": 2256,
+    "num_pal": 2250,
+    "pal_tenek": "k'al k'uājwua",
+    "pal_esp": "descanso",
+    "significado": ""
+  },
+  {
+    "_id": 2257,
+    "num_pal": 2251,
+    "pal_tenek": "ma jaiki",
+    "pal_esp": "desde cuando",
+    "significado": ""
+  },
+  {
+    "_id": 2258,
+    "num_pal": 2252,
+    "pal_tenek": "in tajal",
+    "pal_esp": "desde hace",
+    "significado": ""
+  },
+  {
+    "_id": 2259,
+    "num_pal": 2253,
+    "pal_tenek": "ma",
+    "pal_esp": "desde, hasta",
+    "significado": ""
+  },
+  {
+    "_id": 2260,
+    "num_pal": 2254,
+    "pal_tenek": "putenek",
+    "pal_esp": "desmayarse",
+    "significado": ""
+  },
+  {
+    "_id": 2261,
+    "num_pal": 2255,
+    "pal_tenek": "sha’mumūl",
+    "pal_esp": "desorientado",
+    "significado": ""
+  },
+  {
+    "_id": 2262,
+    "num_pal": 2256,
+    "pal_tenek": "k’ayūm",
+    "pal_esp": "despacio",
+    "significado": ""
+  },
+  {
+    "_id": 2263,
+    "num_pal": 2257,
+    "pal_tenek": "bakiyal",
+    "pal_esp": "despertar",
+    "significado": ""
+  },
+  {
+    "_id": 2264,
+    "num_pal": 2258,
+    "pal_tenek": "ejtsinal",
+    "pal_esp": "despierta",
+    "significado": ""
+  },
+  {
+    "_id": 2265,
+    "num_pal": 2259,
+    "pal_tenek": "tālbēl",
+    "pal_esp": "después",
+    "significado": ""
+  },
+  {
+    "_id": 2266,
+    "num_pal": 2260,
+    "pal_tenek": "kichā",
+    "pal_esp": "día",
+    "significado": ""
+  },
+  {
+    "_id": 2267,
+    "num_pal": 2261,
+    "pal_tenek": "ts’ijaltalāb",
+    "pal_esp": "diarrea",
+    "significado": ""
+  },
+  {
+    "_id": 2268,
+    "num_pal": 2262,
+    "pal_tenek": "tsijaltalāb",
+    "pal_esp": "diarrea",
+    "significado": ""
+  },
+  {
+    "_id": 2269,
+    "num_pal": 2263,
+    "pal_tenek": "kichāchik",
+    "pal_esp": "días",
+    "significado": ""
+  },
+  {
+    "_id": 2270,
+    "num_pal": 2264,
+    "pal_tenek": "laju belew",
+    "pal_esp": "diecinueve",
+    "significado": ""
+  },
+  {
+    "_id": 2271,
+    "num_pal": 2265,
+    "pal_tenek": "laju waxik",
+    "pal_esp": "dieciocho",
+    "significado": ""
+  },
+  {
+    "_id": 2272,
+    "num_pal": 2266,
+    "pal_tenek": "laju akak",
+    "pal_esp": "dieciséis",
+    "significado": ""
+  },
+  {
+    "_id": 2273,
+    "num_pal": 2267,
+    "pal_tenek": "laju búk",
+    "pal_esp": "diecisiete",
+    "significado": ""
+  },
+  {
+    "_id": 2274,
+    "num_pal": 2268,
+    "pal_tenek": "kāmab",
+    "pal_esp": "dientes, muelas",
+    "significado": ""
+  },
+  {
+    "_id": 2275,
+    "num_pal": 2269,
+    "pal_tenek": "pābith",
+    "pal_esp": "dieta",
+    "significado": ""
+  },
+  {
+    "_id": 2276,
+    "num_pal": 2270,
+    "pal_tenek": "laju",
+    "pal_esp": "diez",
+    "significado": ""
+  },
+  {
+    "_id": 2277,
+    "num_pal": 2271,
+    "pal_tenek": "k’kūtu",
+    "pal_esp": "dificultad",
+    "significado": ""
+  },
+  {
+    "_id": 2278,
+    "num_pal": 2272,
+    "pal_tenek": "wishāl",
+    "pal_esp": "doblado",
+    "significado": ""
+  },
+  {
+    "_id": 2279,
+    "num_pal": 2273,
+    "pal_tenek": "laju tsáb",
+    "pal_esp": "doce",
+    "significado": ""
+  },
+  {
+    "_id": 2280,
+    "num_pal": 2274,
+    "pal_tenek": "yajal",
+    "pal_esp": "dolor",
+    "significado": ""
+  },
+  {
+    "_id": 2281,
+    "num_pal": 2275,
+    "pal_tenek": "yajchik",
+    "pal_esp": "doloroso",
+    "significado": ""
+  },
+  {
+    "_id": 2282,
+    "num_pal": 2276,
+    "pal_tenek": "tothel",
+    "pal_esp": "dormir",
+    "significado": ""
+  },
+  {
+    "_id": 2283,
+    "num_pal": 2277,
+    "pal_tenek": "wayal",
+    "pal_esp": "dormir, duerme",
+    "significado": ""
+  },
+  {
+    "_id": 2284,
+    "num_pal": 2278,
+    "pal_tenek": "tsāb",
+    "pal_esp": "dos",
+    "significado": ""
+  },
+  {
+    "_id": 2285,
+    "num_pal": 2279,
+    "pal_tenek": "tsáb ciento",
+    "pal_esp": "doscientos",
+    "significado": ""
+  },
+  {
+    "_id": 2286,
+    "num_pal": 2280,
+    "pal_tenek": "sho'wē'",
+    "pal_esp": "durante este día",
+    "significado": ""
+  },
+  {
+    "_id": 2287,
+    "num_pal": 2281,
+    "pal_tenek": "wits’iy",
+    "pal_esp": "duro",
+    "significado": ""
+  },
+  {
+    "_id": 2288,
+    "num_pal": 2282,
+    "pal_tenek": "tsapik",
+    "pal_esp": "duro, fuerte",
+    "significado": ""
+  },
+  {
+    "_id": 2289,
+    "num_pal": 2283,
+    "pal_tenek": "jajā",
+    "pal_esp": "el, ella",
+    "significado": ""
+  },
+  {
+    "_id": 2290,
+    "num_pal": 2284,
+    "pal_tenek": "jajāchik",
+    "pal_esp": "ellos, ellas",
+    "significado": ""
+  },
+  {
+    "_id": 2291,
+    "num_pal": 2285,
+    "pal_tenek": "konēnek",
+    "pal_esp": "embarazo",
+    "significado": ""
+  },
+  {
+    "_id": 2292,
+    "num_pal": 2286,
+    "pal_tenek": "elbath",
+    "pal_esp": "empeora",
+    "significado": ""
+  },
+  {
+    "_id": 2293,
+    "num_pal": 2287,
+    "pal_tenek": "k’ālchith",
+    "pal_esp": "empeoró",
+    "significado": ""
+  },
+  {
+    "_id": 2294,
+    "num_pal": 2288,
+    "pal_tenek": "kuathamal",
+    "pal_esp": "empezar",
+    "significado": ""
+  },
+  {
+    "_id": 2295,
+    "num_pal": 2289,
+    "pal_tenek": "tujchi",
+    "pal_esp": "empezar",
+    "significado": ""
+  },
+  {
+    "_id": 2296,
+    "num_pal": 2290,
+    "pal_tenek": "tujey",
+    "pal_esp": "empezó",
+    "significado": ""
+  },
+  {
+    "_id": 2297,
+    "num_pal": 2291,
+    "pal_tenek": "ta",
+    "pal_esp": "en el, en la, al",
+    "significado": ""
+  },
+  {
+    "_id": 2298,
+    "num_pal": 2292,
+    "pal_tenek": "tu'ul a kāmab",
+    "pal_esp": "encía",
+    "significado": ""
+  },
+  {
+    "_id": 2299,
+    "num_pal": 2293,
+    "pal_tenek": "tu'ul",
+    "pal_esp": "encima",
+    "significado": ""
+  },
+  {
+    "_id": 2300,
+    "num_pal": 2294,
+    "pal_tenek": "tsipilimenek",
+    "pal_esp": "encogerse, disminuir",
+    "significado": ""
+  },
+  {
+    "_id": 2301,
+    "num_pal": 2295,
+    "pal_tenek": "k’uts’nal",
+    "pal_esp": "encorvar",
+    "significado": ""
+  },
+  {
+    "_id": 2302,
+    "num_pal": 2296,
+    "pal_tenek": "kithab ja’ūb",
+    "pal_esp": "enemigo",
+    "significado": ""
+  },
+  {
+    "_id": 2303,
+    "num_pal": 2297,
+    "pal_tenek": "ya’ulats",
+    "pal_esp": "enfermedad",
+    "significado": ""
+  },
+  {
+    "_id": 2304,
+    "num_pal": 2298,
+    "pal_tenek": "tsákul",
+    "pal_esp": "enojar, enojo",
+    "significado": ""
+  },
+  {
+    "_id": 2305,
+    "num_pal": 2299,
+    "pal_tenek": "putat",
+    "pal_esp": "entero",
+    "significado": ""
+  },
+  {
+    "_id": 2306,
+    "num_pal": 2300,
+    "pal_tenek": "chekan",
+    "pal_esp": "enterrar",
+    "significado": ""
+  },
+  {
+    "_id": 2307,
+    "num_pal": 2301,
+    "pal_tenek": "ta’m",
+    "pal_esp": "entonces",
+    "significado": ""
+  },
+  {
+    "_id": 2308,
+    "num_pal": 2302,
+    "pal_tenek": "otsel",
+    "pal_esp": "entre, entra",
+    "significado": ""
+  },
+  {
+    "_id": 2309,
+    "num_pal": 2303,
+    "pal_tenek": "tijsob",
+    "pal_esp": "epazote",
+    "significado": ""
+  },
+  {
+    "_id": 2310,
+    "num_pal": 2304,
+    "pal_tenek": "pēl",
+    "pal_esp": "es",
+    "significado": ""
+  },
+  {
+    "_id": 2311,
+    "num_pal": 2305,
+    "pal_tenek": "it",
+    "pal_esp": "es, está",
+    "significado": ""
+  },
+  {
+    "_id": 2312,
+    "num_pal": 2306,
+    "pal_tenek": "koyob",
+    "pal_esp": "escalera",
+    "significado": ""
+  },
+  {
+    "_id": 2313,
+    "num_pal": 2307,
+    "pal_tenek": "thuchum",
+    "pal_esp": "escribir",
+    "significado": ""
+  },
+  {
+    "_id": 2314,
+    "num_pal": 2308,
+    "pal_tenek": "tubāl",
+    "pal_esp": "escupir",
+    "significado": ""
+  },
+  {
+    "_id": 2315,
+    "num_pal": 2309,
+    "pal_tenek": "kūsh",
+    "pal_esp": "espalda, cintura",
+    "significado": ""
+  },
+  {
+    "_id": 2316,
+    "num_pal": 2310,
+    "pal_tenek": "aichi",
+    "pal_esp": "espere",
+    "significado": ""
+  },
+  {
+    "_id": 2317,
+    "num_pal": 2311,
+    "pal_tenek": "ishām",
+    "pal_esp": "esposa",
+    "significado": ""
+  },
+  {
+    "_id": 2318,
+    "num_pal": 2312,
+    "pal_tenek": "k’imā'th",
+    "pal_esp": "esposa, esposo",
+    "significado": ""
+  },
+  {
+    "_id": 2319,
+    "num_pal": 2313,
+    "pal_tenek": "tomkil",
+    "pal_esp": "esposo, esposa",
+    "significado": ""
+  },
+  {
+    "_id": 2320,
+    "num_pal": 2314,
+    "pal_tenek": "k’ālchinal",
+    "pal_esp": "está empeorando",
+    "significado": ""
+  },
+  {
+    "_id": 2321,
+    "num_pal": 2315,
+    "pal_tenek": "waklamal",
+    "pal_esp": "estar arrojando",
+    "significado": ""
+  },
+  {
+    "_id": 2322,
+    "num_pal": 2316,
+    "pal_tenek": "biltalāb",
+    "pal_esp": "estar debilitado",
+    "significado": ""
+  },
+  {
+    "_id": 2323,
+    "num_pal": 2317,
+    "pal_tenek": "t’ununbāl",
+    "pal_esp": "estar morado",
+    "significado": ""
+  },
+  {
+    "_id": 2324,
+    "num_pal": 2318,
+    "pal_tenek": "t’ojlābāl",
+    "pal_esp": "estar trabajando",
+    "significado": ""
+  },
+  {
+    "_id": 2325,
+    "num_pal": 2319,
+    "pal_tenek": "sha'altalāb",
+    "pal_esp": "estar vomitando",
+    "significado": ""
+  },
+  {
+    "_id": 2326,
+    "num_pal": 2320,
+    "pal_tenek": "tam",
+    "pal_esp": "estilo, tipo de",
+    "significado": ""
+  },
+  {
+    "_id": 2327,
+    "num_pal": 2321,
+    "pal_tenek": "chūkul",
+    "pal_esp": "estómago, abdomen",
+    "significado": ""
+  },
+  {
+    "_id": 2328,
+    "num_pal": 2322,
+    "pal_tenek": "jatsik",
+    "pal_esp": "estornudo",
+    "significado": ""
+  },
+  {
+    "_id": 2329,
+    "num_pal": 2323,
+    "pal_tenek": "othenek",
+    "pal_esp": "evacuar desechos",
+    "significado": ""
+  },
+  {
+    "_id": 2330,
+    "num_pal": 2324,
+    "pal_tenek": "kibāl",
+    "pal_esp": "falta, pierde",
+    "significado": ""
+  },
+  {
+    "_id": 2331,
+    "num_pal": 2325,
+    "pal_tenek": "at’ash",
+    "pal_esp": "feo, sucio, malo",
+    "significado": ""
+  },
+  {
+    "_id": 2332,
+    "num_pal": 2326,
+    "pal_tenek": "thith’ik",
+    "pal_esp": "flato",
+    "significado": ""
+  },
+  {
+    "_id": 2333,
+    "num_pal": 2327,
+    "pal_tenek": "tsul",
+    "pal_esp": "flauta",
+    "significado": ""
+  },
+  {
+    "_id": 2334,
+    "num_pal": 2328,
+    "pal_tenek": "paklanal",
+    "pal_esp": "flexible",
+    "significado": ""
+  },
+  {
+    "_id": 2335,
+    "num_pal": 2329,
+    "pal_tenek": "wits",
+    "pal_esp": "flor",
+    "significado": ""
+  },
+  {
+    "_id": 2336,
+    "num_pal": 2330,
+    "pal_tenek": "japtal",
+    "pal_esp": "fosa de nariz",
+    "significado": ""
+  },
+  {
+    "_id": 2337,
+    "num_pal": 2331,
+    "pal_tenek": "pikib",
+    "pal_esp": "frente",
+    "significado": ""
+  },
+  {
+    "_id": 2338,
+    "num_pal": 2332,
+    "pal_tenek": "tsanac’u",
+    "pal_esp": "frijol",
+    "significado": ""
+  },
+  {
+    "_id": 2339,
+    "num_pal": 2333,
+    "pal_tenek": "ts’ayil",
+    "pal_esp": "frio",
+    "significado": ""
+  },
+  {
+    "_id": 2340,
+    "num_pal": 2334,
+    "pal_tenek": "tsamay",
+    "pal_esp": "frio, fría",
+    "significado": ""
+  },
+  {
+    "_id": 2341,
+    "num_pal": 2335,
+    "pal_tenek": "tsáplab",
+    "pal_esp": "fuerza",
+    "significado": ""
+  },
+  {
+    "_id": 2342,
+    "num_pal": 2336,
+    "pal_tenek": "juts’ul",
+    "pal_esp": "fumando",
+    "significado": ""
+  },
+  {
+    "_id": 2343,
+    "num_pal": 2337,
+    "pal_tenek": "juts’uwal",
+    "pal_esp": "fumar",
+    "significado": ""
+  },
+  {
+    "_id": 2344,
+    "num_pal": 2338,
+    "pal_tenek": "kanāt",
+    "pal_esp": "ganas",
+    "significado": ""
+  },
+  {
+    "_id": 2345,
+    "num_pal": 2339,
+    "pal_tenek": "al u nuk",
+    "pal_esp": "garganta, faringe, laringe",
+    "significado": ""
+  },
+  {
+    "_id": 2346,
+    "num_pal": 2340,
+    "pal_tenek": "mitsu’",
+    "pal_esp": "gato",
+    "significado": ""
+  },
+  {
+    "_id": 2347,
+    "num_pal": 2341,
+    "pal_tenek": "uklīth",
+    "pal_esp": "golondrina",
+    "significado": ""
+  },
+  {
+    "_id": 2348,
+    "num_pal": 2342,
+    "pal_tenek": "kuajchal",
+    "pal_esp": "golpear",
+    "significado": ""
+  },
+  {
+    "_id": 2349,
+    "num_pal": 2343,
+    "pal_tenek": "bom",
+    "pal_esp": "gordo",
+    "significado": ""
+  },
+  {
+    "_id": 2350,
+    "num_pal": 2344,
+    "pal_tenek": "k’anal",
+    "pal_esp": "gordura",
+    "significado": ""
+  },
+  {
+    "_id": 2351,
+    "num_pal": 2345,
+    "pal_tenek": "tolkoshtal",
+    "pal_esp": "gotear",
+    "significado": ""
+  },
+  {
+    "_id": 2352,
+    "num_pal": 2346,
+    "pal_tenek": "k'aknamalits tam, jalbinchi yán",
+    "pal_esp": "gracias",
+    "significado": ""
+  },
+  {
+    "_id": 2353,
+    "num_pal": 2347,
+    "pal_tenek": "k’ak’namal yan",
+    "pal_esp": "gracias, muchas gracias",
+    "significado": ""
+  },
+  {
+    "_id": 2354,
+    "num_pal": 2348,
+    "pal_tenek": "paktha’",
+    "pal_esp": "grande",
+    "significado": ""
+  },
+  {
+    "_id": 2355,
+    "num_pal": 2349,
+    "pal_tenek": "pūlik",
+    "pal_esp": "grande, gran",
+    "significado": ""
+  },
+  {
+    "_id": 2356,
+    "num_pal": 2350,
+    "pal_tenek": "bakambe",
+    "pal_esp": "grano",
+    "significado": ""
+  },
+  {
+    "_id": 2357,
+    "num_pal": 2351,
+    "pal_tenek": "t’it’",
+    "pal_esp": "grano",
+    "significado": ""
+  },
+  {
+    "_id": 2358,
+    "num_pal": 2352,
+    "pal_tenek": "tsili",
+    "pal_esp": "grillo",
+    "significado": ""
+  },
+  {
+    "_id": 2359,
+    "num_pal": 2353,
+    "pal_tenek": "thum",
+    "pal_esp": "gusano",
+    "significado": ""
+  },
+  {
+    "_id": 2360,
+    "num_pal": 2354,
+    "pal_tenek": "kaw ti lab",
+    "pal_esp": "hablar español, palabras en español",
+    "significado": ""
+  },
+  {
+    "_id": 2361,
+    "num_pal": 2355,
+    "pal_tenek": "kaw ti tének",
+    "pal_esp": "hablar huasteco, palabras en huasteco",
+    "significado": ""
+  },
+  {
+    "_id": 2362,
+    "num_pal": 2356,
+    "pal_tenek": "tajchi",
+    "pal_esp": "hacer",
+    "significado": ""
+  },
+  {
+    "_id": 2363,
+    "num_pal": 2357,
+    "pal_tenek": "t’ajāl",
+    "pal_esp": "hacer, tener",
+    "significado": ""
+  },
+  {
+    "_id": 2364,
+    "num_pal": 2358,
+    "pal_tenek": "k’a’īl",
+    "pal_esp": "hambre",
+    "significado": ""
+  },
+  {
+    "_id": 2365,
+    "num_pal": 2359,
+    "pal_tenek": "tayej ku tsu'uxin",
+    "pal_esp": "hasta la vista",
+    "significado": ""
+  },
+  {
+    "_id": 2366,
+    "num_pal": 2360,
+    "pal_tenek": "ma kalām",
+    "pal_esp": "hasta mañana",
+    "significado": ""
+  },
+  {
+    "_id": 2367,
+    "num_pal": 2361,
+    "pal_tenek": "wa’ ats",
+    "pal_esp": "hay",
+    "significado": ""
+  },
+  {
+    "_id": 2368,
+    "num_pal": 2362,
+    "pal_tenek": "ts’ejkāth",
+    "pal_esp": "hecha, construida",
+    "significado": ""
+  },
+  {
+    "_id": 2369,
+    "num_pal": 2363,
+    "pal_tenek": "tsejkath",
+    "pal_esp": "hecho, construido",
+    "significado": ""
+  },
+  {
+    "_id": 2370,
+    "num_pal": 2364,
+    "pal_tenek": "k’oloth",
+    "pal_esp": "herido",
+    "significado": ""
+  },
+  {
+    "_id": 2371,
+    "num_pal": 2365,
+    "pal_tenek": "kuitōlil",
+    "pal_esp": "hijo, hija",
+    "significado": ""
+  },
+  {
+    "_id": 2372,
+    "num_pal": 2366,
+    "pal_tenek": "tsakamilchik",
+    "pal_esp": "hijos",
+    "significado": ""
+  },
+  {
+    "_id": 2373,
+    "num_pal": 2367,
+    "pal_tenek": "mālith",
+    "pal_esp": "hincharse, hinchado",
+    "significado": ""
+  },
+  {
+    "_id": 2374,
+    "num_pal": 2368,
+    "pal_tenek": "māl",
+    "pal_esp": "hinchazón",
+    "significado": ""
+  },
+  {
+    "_id": 2375,
+    "num_pal": 2369,
+    "pal_tenek": "ju chūkul",
+    "pal_esp": "hipo",
+    "significado": ""
+  },
+  {
+    "_id": 2376,
+    "num_pal": 2370,
+    "pal_tenek": "k’imā'",
+    "pal_esp": "hogar",
+    "significado": ""
+  },
+  {
+    "_id": 2377,
+    "num_pal": 2371,
+    "pal_tenek": "nēnek",
+    "pal_esp": "hola, buen día",
+    "significado": ""
+  },
+  {
+    "_id": 2378,
+    "num_pal": 2372,
+    "pal_tenek": "īnik",
+    "pal_esp": "hombre",
+    "significado": ""
+  },
+  {
+    "_id": 2379,
+    "num_pal": 2373,
+    "pal_tenek": "bomochic",
+    "pal_esp": "hombre gordo",
+    "significado": ""
+  },
+  {
+    "_id": 2380,
+    "num_pal": 2374,
+    "pal_tenek": "thanits",
+    "pal_esp": "hormiga",
+    "significado": ""
+  },
+  {
+    "_id": 2381,
+    "num_pal": 2375,
+    "pal_tenek": "sho’",
+    "pal_esp": "hoy",
+    "significado": ""
+  },
+  {
+    "_id": 2382,
+    "num_pal": 2376,
+    "pal_tenek": "xo'",
+    "pal_esp": "Hoy",
+    "significado": ""
+  },
+  {
+    "_id": 2383,
+    "num_pal": 2377,
+    "pal_tenek": "tēnek",
+    "pal_esp": "huasteco",
+    "significado": ""
+  },
+  {
+    "_id": 2384,
+    "num_pal": 2378,
+    "pal_tenek": "thak’chok’",
+    "pal_esp": "huevo",
+    "significado": ""
+  },
+  {
+    "_id": 2385,
+    "num_pal": 2379,
+    "pal_tenek": "to’pach",
+    "pal_esp": "hundir, penetrar",
+    "significado": ""
+  },
+  {
+    "_id": 2386,
+    "num_pal": 2380,
+    "pal_tenek": "tsalich",
+    "pal_esp": "iguana",
+    "significado": ""
+  },
+  {
+    "_id": 2387,
+    "num_pal": 2381,
+    "pal_tenek": "thopel",
+    "pal_esp": "inflar, hinchar",
+    "significado": ""
+  },
+  {
+    "_id": 2388,
+    "num_pal": 2382,
+    "pal_tenek": "atlal",
+    "pal_esp": "ingreso, ganancia",
+    "significado": ""
+  },
+  {
+    "_id": 2389,
+    "num_pal": 2383,
+    "pal_tenek": "títhith",
+    "pal_esp": "intestinos, vísceras, tripas",
+    "significado": ""
+  },
+  {
+    "_id": 2390,
+    "num_pal": 2384,
+    "pal_tenek": "lo'omejits",
+    "pal_esp": "inyección, inyectar",
+    "significado": ""
+  },
+  {
+    "_id": 2391,
+    "num_pal": 2385,
+    "pal_tenek": "walk’īebāl",
+    "pal_esp": "ir hacia arriba",
+    "significado": ""
+  },
+  {
+    "_id": 2392,
+    "num_pal": 2386,
+    "pal_tenek": "kalēl",
+    "pal_esp": "ir, irse, salir",
+    "significado": ""
+  },
+  {
+    "_id": 2393,
+    "num_pal": 2387,
+    "pal_tenek": "alte’ olom",
+    "pal_esp": "jabalí",
+    "significado": ""
+  },
+  {
+    "_id": 2394,
+    "num_pal": 2388,
+    "pal_tenek": "ōk’lek",
+    "pal_esp": "jefe",
+    "significado": ""
+  },
+  {
+    "_id": 2395,
+    "num_pal": 2389,
+    "pal_tenek": "atlom",
+    "pal_esp": "jornalero",
+    "significado": ""
+  },
+  {
+    "_id": 2396,
+    "num_pal": 2390,
+    "pal_tenek": "thaju",
+    "pal_esp": "mañana",
+    "significado": ""
+  },
+  {
+    "_id": 2397,
+    "num_pal": 2391,
+    "pal_tenek": "thamthūl",
+    "pal_esp": "tarde noche",
+    "significado": ""
+  },
+  {
+    "_id": 2398,
+    "num_pal": 2392,
+    "pal_tenek": "ocho’",
+    "pal_esp": "lagartija",
+    "significado": ""
+  },
+  {
+    "_id": 2399,
+    "num_pal": 2393,
+    "pal_tenek": "bots",
+    "pal_esp": "largo",
+    "significado": ""
+  },
+  {
+    "_id": 2400,
+    "num_pal": 2394,
+    "pal_tenek": "nakat",
+    "pal_esp": "largo",
+    "significado": ""
+  },
+  {
+    "_id": 2401,
+    "num_pal": 2395,
+    "pal_tenek": "nakel",
+    "pal_esp": "largo",
+    "significado": ""
+  },
+  {
+    "_id": 2402,
+    "num_pal": 2396,
+    "pal_tenek": "mithiyal",
+    "pal_esp": "lavar",
+    "significado": ""
+  },
+  {
+    "_id": 2403,
+    "num_pal": 2397,
+    "pal_tenek": "t’acāl",
+    "pal_esp": "lavar",
+    "significado": ""
+  },
+  {
+    "_id": 2404,
+    "num_pal": 2398,
+    "pal_tenek": "u tail",
+    "pal_esp": "le arde",
+    "significado": ""
+  },
+  {
+    "_id": 2405,
+    "num_pal": 2399,
+    "pal_tenek": "takal",
+    "pal_esp": "le toca, requiere",
+    "significado": ""
+  },
+  {
+    "_id": 2406,
+    "num_pal": 2400,
+    "pal_tenek": "ajum",
+    "pal_esp": "leer",
+    "significado": ""
+  },
+  {
+    "_id": 2407,
+    "num_pal": 2401,
+    "pal_tenek": "bu",
+    "pal_esp": "lejos",
+    "significado": ""
+  },
+  {
+    "_id": 2408,
+    "num_pal": 2402,
+    "pal_tenek": "lek’ab",
+    "pal_esp": "lengua",
+    "significado": ""
+  },
+  {
+    "_id": 2409,
+    "num_pal": 2403,
+    "pal_tenek": "lab",
+    "pal_esp": "lengua castellana, idioma español.",
+    "significado": ""
+  },
+  {
+    "_id": 2410,
+    "num_pal": 2404,
+    "pal_tenek": "thi",
+    "pal_esp": "leña",
+    "significado": ""
+  },
+  {
+    "_id": 2411,
+    "num_pal": 2405,
+    "pal_tenek": "kubāl, kubēl",
+    "pal_esp": "levantar",
+    "significado": ""
+  },
+  {
+    "_id": 2412,
+    "num_pal": 2406,
+    "pal_tenek": "tsakiy",
+    "pal_esp": "levantarse",
+    "significado": ""
+  },
+  {
+    "_id": 2413,
+    "num_pal": 2407,
+    "pal_tenek": "kubiy",
+    "pal_esp": "levantarse, pararse",
+    "significado": ""
+  },
+  {
+    "_id": 2414,
+    "num_pal": 2408,
+    "pal_tenek": "k'al ts’akiy",
+    "pal_esp": "levántese",
+    "significado": ""
+  },
+  {
+    "_id": 2415,
+    "num_pal": 2409,
+    "pal_tenek": "k’wit’iyal",
+    "pal_esp": "limpiar",
+    "significado": ""
+  },
+  {
+    "_id": 2416,
+    "num_pal": 2410,
+    "pal_tenek": "k’walat",
+    "pal_esp": "líquido espeso",
+    "significado": ""
+  },
+  {
+    "_id": 2417,
+    "num_pal": 2411,
+    "pal_tenek": "t’et’ma",
+    "pal_esp": "llora",
+    "significado": ""
+  },
+  {
+    "_id": 2418,
+    "num_pal": 2412,
+    "pal_tenek": "shimkathāl",
+    "pal_esp": "lo que saca",
+    "significado": ""
+  },
+  {
+    "_id": 2419,
+    "num_pal": 2413,
+    "pal_tenek": "nujum",
+    "pal_esp": "lombriz de tierra",
+    "significado": ""
+  },
+  {
+    "_id": 2420,
+    "num_pal": 2414,
+    "pal_tenek": "utsek",
+    "pal_esp": "lombriz humana",
+    "significado": ""
+  },
+  {
+    "_id": 2421,
+    "num_pal": 2415,
+    "pal_tenek": "oyo’",
+    "pal_esp": "loro",
+    "significado": ""
+  },
+  {
+    "_id": 2422,
+    "num_pal": 2416,
+    "pal_tenek": "pil",
+    "pal_esp": "luciérnaga",
+    "significado": ""
+  },
+  {
+    "_id": 2423,
+    "num_pal": 2417,
+    "pal_tenek": "tan",
+    "pal_esp": "lugar (ver tam)",
+    "significado": ""
+  },
+  {
+    "_id": 2424,
+    "num_pal": 2418,
+    "pal_tenek": "tam",
+    "pal_esp": "lugar (ver tan)",
+    "significado": ""
+  },
+  {
+    "_id": 2425,
+    "num_pal": 2419,
+    "pal_tenek": "achimtalāb",
+    "pal_esp": "lugar para bañarse",
+    "significado": ""
+  },
+  {
+    "_id": 2426,
+    "num_pal": 2420,
+    "pal_tenek": "kūtsum",
+    "pal_esp": "machete, huíngaro",
+    "significado": ""
+  },
+  {
+    "_id": 2427,
+    "num_pal": 2421,
+    "pal_tenek": "ēm",
+    "pal_esp": "maíz",
+    "significado": ""
+  },
+  {
+    "_id": 2428,
+    "num_pal": 2422,
+    "pal_tenek": "bijat kithab",
+    "pal_esp": "mal olor",
+    "significado": ""
+  },
+  {
+    "_id": 2429,
+    "num_pal": 2423,
+    "pal_tenek": "kithab",
+    "pal_esp": "mal, malo",
+    "significado": ""
+  },
+  {
+    "_id": 2430,
+    "num_pal": 2424,
+    "pal_tenek": "at’ash cāu",
+    "pal_esp": "malas palabras, groserías",
+    "significado": ""
+  },
+  {
+    "_id": 2431,
+    "num_pal": 2425,
+    "pal_tenek": "iba ālua'",
+    "pal_esp": "malo",
+    "significado": ""
+  },
+  {
+    "_id": 2432,
+    "num_pal": 2426,
+    "pal_tenek": "chuchul",
+    "pal_esp": "mama",
+    "significado": ""
+  },
+  {
+    "_id": 2433,
+    "num_pal": 2427,
+    "pal_tenek": "mīm",
+    "pal_esp": "mamá",
+    "significado": ""
+  },
+  {
+    "_id": 2434,
+    "num_pal": 2428,
+    "pal_tenek": "shujliyal",
+    "pal_esp": "mancha",
+    "significado": ""
+  },
+  {
+    "_id": 2435,
+    "num_pal": 2429,
+    "pal_tenek": "k’ūbak",
+    "pal_esp": "mano",
+    "significado": ""
+  },
+  {
+    "_id": 2436,
+    "num_pal": 2430,
+    "pal_tenek": "kalām",
+    "pal_esp": "mañana",
+    "significado": ""
+  },
+  {
+    "_id": 2437,
+    "num_pal": 2431,
+    "pal_tenek": "ethem",
+    "pal_esp": "mapache",
+    "significado": ""
+  },
+  {
+    "_id": 2438,
+    "num_pal": 2432,
+    "pal_tenek": "wilel",
+    "pal_esp": "mareado",
+    "significado": ""
+  },
+  {
+    "_id": 2439,
+    "num_pal": 2433,
+    "pal_tenek": "lej",
+    "pal_esp": "más, muy",
+    "significado": ""
+  },
+  {
+    "_id": 2440,
+    "num_pal": 2434,
+    "pal_tenek": "ts’a’uwal",
+    "pal_esp": "masticar",
+    "significado": ""
+  },
+  {
+    "_id": 2441,
+    "num_pal": 2435,
+    "pal_tenek": "ilāl",
+    "pal_esp": "medicina, medicamento",
+    "significado": ""
+  },
+  {
+    "_id": 2442,
+    "num_pal": 2436,
+    "pal_tenek": "ilālish",
+    "pal_esp": "médico, curandero",
+    "significado": ""
+  },
+  {
+    "_id": 2443,
+    "num_pal": 2437,
+    "pal_tenek": "ts'ējel",
+    "pal_esp": "medio, mitad",
+    "significado": ""
+  },
+  {
+    "_id": 2444,
+    "num_pal": 2438,
+    "pal_tenek": "ts’a’ublek",
+    "pal_esp": "mejilla",
+    "significado": ""
+  },
+  {
+    "_id": 2445,
+    "num_pal": 2439,
+    "pal_tenek": "elab",
+    "pal_esp": "mejora",
+    "significado": ""
+  },
+  {
+    "_id": 2446,
+    "num_pal": 2440,
+    "pal_tenek": "īts'",
+    "pal_esp": "mes, meses, luna",
+    "significado": ""
+  },
+  {
+    "_id": 2447,
+    "num_pal": 2441,
+    "pal_tenek": "sholok’",
+    "pal_esp": "moco",
+    "significado": ""
+  },
+  {
+    "_id": 2448,
+    "num_pal": 2442,
+    "pal_tenek": "loliy",
+    "pal_esp": "moco, resbaloso",
+    "significado": ""
+  },
+  {
+    "_id": 2449,
+    "num_pal": 2443,
+    "pal_tenek": "iba wainik",
+    "pal_esp": "mojado",
+    "significado": ""
+  },
+  {
+    "_id": 2450,
+    "num_pal": 2444,
+    "pal_tenek": "uthu’",
+    "pal_esp": "mono",
+    "significado": ""
+  },
+  {
+    "_id": 2451,
+    "num_pal": 2445,
+    "pal_tenek": "alte’",
+    "pal_esp": "monte",
+    "significado": ""
+  },
+  {
+    "_id": 2452,
+    "num_pal": 2446,
+    "pal_tenek": "aku’",
+    "pal_esp": "morado",
+    "significado": ""
+  },
+  {
+    "_id": 2453,
+    "num_pal": 2447,
+    "pal_tenek": "k’at’uwal",
+    "pal_esp": "morder",
+    "significado": ""
+  },
+  {
+    "_id": 2454,
+    "num_pal": 2448,
+    "pal_tenek": "ajnam",
+    "pal_esp": "mosca",
+    "significado": ""
+  },
+  {
+    "_id": 2455,
+    "num_pal": 2449,
+    "pal_tenek": "jajnek",
+    "pal_esp": "mosca, mosco",
+    "significado": ""
+  },
+  {
+    "_id": 2456,
+    "num_pal": 2450,
+    "pal_tenek": "yōy",
+    "pal_esp": "mosco",
+    "significado": ""
+  },
+  {
+    "_id": 2457,
+    "num_pal": 2451,
+    "pal_tenek": "etha",
+    "pal_esp": "mover",
+    "significado": ""
+  },
+  {
+    "_id": 2458,
+    "num_pal": 2452,
+    "pal_tenek": "wekthāl",
+    "pal_esp": "mover, trasladar",
+    "significado": ""
+  },
+  {
+    "_id": 2459,
+    "num_pal": 2453,
+    "pal_tenek": "ejel",
+    "pal_esp": "moverse",
+    "significado": ""
+  },
+  {
+    "_id": 2460,
+    "num_pal": 2454,
+    "pal_tenek": "jalbinchi yan",
+    "pal_esp": "muchas gracias",
+    "significado": ""
+  },
+  {
+    "_id": 2461,
+    "num_pal": 2455,
+    "pal_tenek": "kalialwatalāb",
+    "pal_esp": "muchas gracias",
+    "significado": ""
+  },
+  {
+    "_id": 2462,
+    "num_pal": 2456,
+    "pal_tenek": "yan",
+    "pal_esp": "muchas, mucho",
+    "significado": ""
+  },
+  {
+    "_id": 2463,
+    "num_pal": 2457,
+    "pal_tenek": "tsēmenek",
+    "pal_esp": "muertos",
+    "significado": ""
+  },
+  {
+    "_id": 2464,
+    "num_pal": 2458,
+    "pal_tenek": "ushum",
+    "pal_esp": "mujer",
+    "significado": ""
+  },
+  {
+    "_id": 2465,
+    "num_pal": 2459,
+    "pal_tenek": "tuth",
+    "pal_esp": "murciélago",
+    "significado": ""
+  },
+  {
+    "_id": 2466,
+    "num_pal": 2460,
+    "pal_tenek": "ts’ejet",
+    "pal_esp": "muslo",
+    "significado": ""
+  },
+  {
+    "_id": 2467,
+    "num_pal": 2461,
+    "pal_tenek": "thakninīl",
+    "pal_esp": "muy blanco",
+    "significado": ""
+  },
+  {
+    "_id": 2468,
+    "num_pal": 2462,
+    "pal_tenek": "tsipiīn",
+    "pal_esp": "muy pequeño",
+    "significado": ""
+  },
+  {
+    "_id": 2469,
+    "num_pal": 2463,
+    "pal_tenek": "lej wīlkith",
+    "pal_esp": "muy seguido",
+    "significado": ""
+  },
+  {
+    "_id": 2470,
+    "num_pal": 2464,
+    "pal_tenek": "wa’tsin",
+    "pal_esp": "nacido",
+    "significado": ""
+  },
+  {
+    "_id": 2471,
+    "num_pal": 2465,
+    "pal_tenek": "wa’tsen",
+    "pal_esp": "nació, nacer",
+    "significado": ""
+  },
+  {
+    "_id": 2472,
+    "num_pal": 2466,
+    "pal_tenek": "mani janto",
+    "pal_esp": "nada",
+    "significado": ""
+  },
+  {
+    "_id": 2473,
+    "num_pal": 2467,
+    "pal_tenek": "pemāl",
+    "pal_esp": "nalga",
+    "significado": ""
+  },
+  {
+    "_id": 2474,
+    "num_pal": 2468,
+    "pal_tenek": "lanāsh",
+    "pal_esp": "naranja",
+    "significado": ""
+  },
+  {
+    "_id": 2475,
+    "num_pal": 2469,
+    "pal_tenek": "thām",
+    "pal_esp": "nariz",
+    "significado": ""
+  },
+  {
+    "_id": 2476,
+    "num_pal": 2470,
+    "pal_tenek": "yajenchal",
+    "pal_esp": "necesita",
+    "significado": ""
+  },
+  {
+    "_id": 2477,
+    "num_pal": 2471,
+    "pal_tenek": "t’unú",
+    "pal_esp": "negro",
+    "significado": ""
+  },
+  {
+    "_id": 2478,
+    "num_pal": 2472,
+    "pal_tenek": "t’ununūl",
+    "pal_esp": "negruzco",
+    "significado": ""
+  },
+  {
+    "_id": 2479,
+    "num_pal": 2473,
+    "pal_tenek": "tsikach",
+    "pal_esp": "niña",
+    "significado": ""
+  },
+  {
+    "_id": 2480,
+    "num_pal": 2474,
+    "pal_tenek": "kuitōl",
+    "pal_esp": "niño",
+    "significado": ""
+  },
+  {
+    "_id": 2481,
+    "num_pal": 2475,
+    "pal_tenek": "tsakamil",
+    "pal_esp": "niños",
+    "significado": ""
+  },
+  {
+    "_id": 2482,
+    "num_pal": 2476,
+    "pal_tenek": "ība",
+    "pal_esp": "no",
+    "significado": ""
+  },
+  {
+    "_id": 2483,
+    "num_pal": 2477,
+    "pal_tenek": "ibaj, yaba'",
+    "pal_esp": "no",
+    "significado": ""
+  },
+  {
+    "_id": 2484,
+    "num_pal": 2478,
+    "pal_tenek": "ībats",
+    "pal_esp": "no",
+    "significado": ""
+  },
+  {
+    "_id": 2485,
+    "num_pal": 2479,
+    "pal_tenek": "ītsots",
+    "pal_esp": "no",
+    "significado": ""
+  },
+  {
+    "_id": 2486,
+    "num_pal": 2480,
+    "pal_tenek": "yab",
+    "pal_esp": "no",
+    "significado": ""
+  },
+  {
+    "_id": 2487,
+    "num_pal": 2481,
+    "pal_tenek": "yab u exbayal",
+    "pal_esp": "No entiendo",
+    "significado": ""
+  },
+  {
+    "_id": 2488,
+    "num_pal": 2482,
+    "pal_tenek": "akal",
+    "pal_esp": "noche",
+    "significado": ""
+  },
+  {
+    "_id": 2489,
+    "num_pal": 2483,
+    "pal_tenek": "thanku",
+    "pal_esp": "noche",
+    "significado": ""
+  },
+  {
+    "_id": 2490,
+    "num_pal": 2484,
+    "pal_tenek": "pak’ak’",
+    "pal_esp": "nopal",
+    "significado": ""
+  },
+  {
+    "_id": 2491,
+    "num_pal": 2485,
+    "pal_tenek": "wuawuā’",
+    "pal_esp": "nosotros",
+    "significado": ""
+  },
+  {
+    "_id": 2492,
+    "num_pal": 2486,
+    "pal_tenek": "i",
+    "pal_esp": "nuestro",
+    "significado": ""
+  },
+  {
+    "_id": 2493,
+    "num_pal": 2487,
+    "pal_tenek": "belēu",
+    "pal_esp": "nueve",
+    "significado": ""
+  },
+  {
+    "_id": 2494,
+    "num_pal": 2488,
+    "pal_tenek": "tsé' inik",
+    "pal_esp": "ochenta",
+    "significado": ""
+  },
+  {
+    "_id": 2495,
+    "num_pal": 2489,
+    "pal_tenek": "washik",
+    "pal_esp": "ocho",
+    "significado": ""
+  },
+  {
+    "_id": 2496,
+    "num_pal": 2490,
+    "pal_tenek": "k’umpath in ichīch",
+    "pal_esp": "ofendido (molesto del corazón)",
+    "significado": ""
+  },
+  {
+    "_id": 2497,
+    "num_pal": 2491,
+    "pal_tenek": "pach",
+    "pal_esp": "olla",
+    "significado": ""
+  },
+  {
+    "_id": 2498,
+    "num_pal": 2492,
+    "pal_tenek": "bījat",
+    "pal_esp": "olor",
+    "significado": ""
+  },
+  {
+    "_id": 2499,
+    "num_pal": 2493,
+    "pal_tenek": "jikal",
+    "pal_esp": "olor",
+    "significado": ""
+  },
+  {
+    "_id": 2500,
+    "num_pal": 2494,
+    "pal_tenek": "k’o’onlek",
+    "pal_esp": "ombligo",
+    "significado": ""
+  },
+  {
+    "_id": 2501,
+    "num_pal": 2495,
+    "pal_tenek": "luts’ūts",
+    "pal_esp": "omóplato",
+    "significado": ""
+  },
+  {
+    "_id": 2502,
+    "num_pal": 2496,
+    "pal_tenek": "laju jún",
+    "pal_esp": "once",
+    "significado": ""
+  },
+  {
+    "_id": 2503,
+    "num_pal": 2497,
+    "pal_tenek": "shutsun",
+    "pal_esp": "oreja",
+    "significado": ""
+  },
+  {
+    "_id": 2504,
+    "num_pal": 2498,
+    "pal_tenek": "chik'al",
+    "pal_esp": "orina",
+    "significado": ""
+  },
+  {
+    "_id": 2505,
+    "num_pal": 2499,
+    "pal_tenek": "ja’chūkul",
+    "pal_esp": "orina",
+    "significado": ""
+  },
+  {
+    "_id": 2506,
+    "num_pal": 2500,
+    "pal_tenek": "yik’utsinal",
+    "pal_esp": "oscurece",
+    "significado": ""
+  },
+  {
+    "_id": 2507,
+    "num_pal": 2501,
+    "pal_tenek": "yic’wash",
+    "pal_esp": "oscuro",
+    "significado": ""
+  },
+  {
+    "_id": 2508,
+    "num_pal": 2502,
+    "pal_tenek": "k'wue'at",
+    "pal_esp": "otro , otra",
+    "significado": ""
+  },
+  {
+    "_id": 2509,
+    "num_pal": 2503,
+    "pal_tenek": "k’ayūmtalāb",
+    "pal_esp": "paciencia",
+    "significado": ""
+  },
+  {
+    "_id": 2510,
+    "num_pal": 2504,
+    "pal_tenek": "tāta",
+    "pal_esp": "padre, papá",
+    "significado": ""
+  },
+  {
+    "_id": 2511,
+    "num_pal": 2505,
+    "pal_tenek": "t’apay",
+    "pal_esp": "pegajoso",
+    "significado": ""
+  },
+  {
+    "_id": 2512,
+    "num_pal": 2506,
+    "pal_tenek": "sheklek",
+    "pal_esp": "paja",
+    "significado": ""
+  },
+  {
+    "_id": 2513,
+    "num_pal": 2507,
+    "pal_tenek": "tsitsin",
+    "pal_esp": "pájaro",
+    "significado": ""
+  },
+  {
+    "_id": 2514,
+    "num_pal": 2508,
+    "pal_tenek": "pajab",
+    "pal_esp": "palma de la mano",
+    "significado": ""
+  },
+  {
+    "_id": 2515,
+    "num_pal": 2509,
+    "pal_tenek": "k’ūbaklek",
+    "pal_esp": "palmada",
+    "significado": ""
+  },
+  {
+    "_id": 2516,
+    "num_pal": 2510,
+    "pal_tenek": "puchun",
+    "pal_esp": "paloma",
+    "significado": ""
+  },
+  {
+    "_id": 2517,
+    "num_pal": 2511,
+    "pal_tenek": "t’ic’t’ōl",
+    "pal_esp": "palpitación",
+    "significado": ""
+  },
+  {
+    "_id": 2518,
+    "num_pal": 2512,
+    "pal_tenek": "bal",
+    "pal_esp": "para",
+    "significado": ""
+  },
+  {
+    "_id": 2519,
+    "num_pal": 2513,
+    "pal_tenek": "kal",
+    "pal_esp": "para",
+    "significado": ""
+  },
+  {
+    "_id": 2520,
+    "num_pal": 2514,
+    "pal_tenek": "ts’akīl",
+    "pal_esp": "parar",
+    "significado": ""
+  },
+  {
+    "_id": 2521,
+    "num_pal": 2515,
+    "pal_tenek": "ba’te",
+    "pal_esp": "pared",
+    "significado": ""
+  },
+  {
+    "_id": 2522,
+    "num_pal": 2516,
+    "pal_tenek": "k'al kubiy",
+    "pal_esp": "párese",
+    "significado": ""
+  },
+  {
+    "_id": 2523,
+    "num_pal": 2517,
+    "pal_tenek": "k’wathlim",
+    "pal_esp": "parpadear",
+    "significado": ""
+  },
+  {
+    "_id": 2524,
+    "num_pal": 2518,
+    "pal_tenek": "we’mēl",
+    "pal_esp": "pasa el tiempo, disminuye",
+    "significado": ""
+  },
+  {
+    "_id": 2525,
+    "num_pal": 2519,
+    "pal_tenek": "kalām sabki",
+    "pal_esp": "pasado mañana",
+    "significado": ""
+  },
+  {
+    "_id": 2526,
+    "num_pal": 2520,
+    "pal_tenek": "kitch",
+    "pal_esp": "pase",
+    "significado": ""
+  },
+  {
+    "_id": 2527,
+    "num_pal": 2521,
+    "pal_tenek": "palats",
+    "pal_esp": "pavo, guajolote",
+    "significado": ""
+  },
+  {
+    "_id": 2528,
+    "num_pal": 2522,
+    "pal_tenek": "petso",
+    "pal_esp": "pecho",
+    "significado": ""
+  },
+  {
+    "_id": 2529,
+    "num_pal": 2523,
+    "pal_tenek": "pejach",
+    "pal_esp": "pedazo",
+    "significado": ""
+  },
+  {
+    "_id": 2530,
+    "num_pal": 2524,
+    "pal_tenek": "pejach",
+    "pal_esp": "pedazo, pedazos",
+    "significado": ""
+  },
+  {
+    "_id": 2531,
+    "num_pal": 2525,
+    "pal_tenek": "tapay",
+    "pal_esp": "pegajoso",
+    "significado": ""
+  },
+  {
+    "_id": 2532,
+    "num_pal": 2526,
+    "pal_tenek": "tslap",
+    "pal_esp": "pensar",
+    "significado": ""
+  },
+  {
+    "_id": 2533,
+    "num_pal": 2527,
+    "pal_tenek": "tsipil",
+    "pal_esp": "pequeño",
+    "significado": ""
+  },
+  {
+    "_id": 2534,
+    "num_pal": 2528,
+    "pal_tenek": "kili",
+    "pal_esp": "perico",
+    "significado": ""
+  },
+  {
+    "_id": 2535,
+    "num_pal": 2529,
+    "pal_tenek": "pik’o’",
+    "pal_esp": "perro",
+    "significado": ""
+  },
+  {
+    "_id": 2536,
+    "num_pal": 2530,
+    "pal_tenek": "alchic",
+    "pal_esp": "pesado",
+    "significado": ""
+  },
+  {
+    "_id": 2537,
+    "num_pal": 2531,
+    "pal_tenek": "mathith",
+    "pal_esp": "pestañas",
+    "significado": ""
+  },
+  {
+    "_id": 2538,
+    "num_pal": 2532,
+    "pal_tenek": "to'ol",
+    "pal_esp": "pez, pescado",
+    "significado": ""
+  },
+  {
+    "_id": 2539,
+    "num_pal": 2533,
+    "pal_tenek": "tsikā",
+    "pal_esp": "picadura",
+    "significado": ""
+  },
+  {
+    "_id": 2540,
+    "num_pal": 2534,
+    "pal_tenek": "akan",
+    "pal_esp": "pie",
+    "significado": ""
+  },
+  {
+    "_id": 2541,
+    "num_pal": 2535,
+    "pal_tenek": "pēlet",
+    "pal_esp": "pierna",
+    "significado": ""
+  },
+  {
+    "_id": 2542,
+    "num_pal": 2536,
+    "pal_tenek": "uts’",
+    "pal_esp": "piojo",
+    "significado": ""
+  },
+  {
+    "_id": 2543,
+    "num_pal": 2537,
+    "pal_tenek": "tasabāl",
+    "pal_esp": "piso",
+    "significado": ""
+  },
+  {
+    "_id": 2544,
+    "num_pal": 2538,
+    "pal_tenek": "nuk’wel",
+    "pal_esp": "plana, plano",
+    "significado": ""
+  },
+  {
+    "_id": 2545,
+    "num_pal": 2539,
+    "pal_tenek": "itath",
+    "pal_esp": "plátano",
+    "significado": ""
+  },
+  {
+    "_id": 2546,
+    "num_pal": 2540,
+    "pal_tenek": "wachik",
+    "pal_esp": "poco",
+    "significado": ""
+  },
+  {
+    "_id": 2547,
+    "num_pal": 2541,
+    "pal_tenek": "k’ayūm k’ayūm",
+    "pal_esp": "poco a poco",
+    "significado": ""
+  },
+  {
+    "_id": 2548,
+    "num_pal": 2542,
+    "pal_tenek": "ejtōwal",
+    "pal_esp": "poder, puede",
+    "significado": ""
+  },
+  {
+    "_id": 2549,
+    "num_pal": 2543,
+    "pal_tenek": "ne’ets kaejto",
+    "pal_esp": "poder, puede",
+    "significado": ""
+  },
+  {
+    "_id": 2550,
+    "num_pal": 2544,
+    "pal_tenek": "k’atsenek",
+    "pal_esp": "podrido",
+    "significado": ""
+  },
+  {
+    "_id": 2551,
+    "num_pal": 2545,
+    "pal_tenek": "pīta'",
+    "pal_esp": "pollo",
+    "significado": ""
+  },
+  {
+    "_id": 2552,
+    "num_pal": 2546,
+    "pal_tenek": "kuanchi",
+    "pal_esp": "poner",
+    "significado": ""
+  },
+  {
+    "_id": 2553,
+    "num_pal": 2547,
+    "pal_tenek": "kuajūa",
+    "pal_esp": "poner, apoyar",
+    "significado": ""
+  },
+  {
+    "_id": 2554,
+    "num_pal": 2548,
+    "pal_tenek": "kushnāl",
+    "pal_esp": "póngase de espaldas",
+    "significado": ""
+  },
+  {
+    "_id": 2555,
+    "num_pal": 2549,
+    "pal_tenek": "kubāiy",
+    "pal_esp": "póngase de pie",
+    "significado": ""
+  },
+  {
+    "_id": 2556,
+    "num_pal": 2550,
+    "pal_tenek": "alhua’talāb",
+    "pal_esp": "por favor",
+    "significado": ""
+  },
+  {
+    "_id": 2557,
+    "num_pal": 2551,
+    "pal_tenek": "k'al I alwua’talāb",
+    "pal_esp": "por favor",
+    "significado": ""
+  },
+  {
+    "_id": 2558,
+    "num_pal": 2552,
+    "pal_tenek": "mom",
+    "pal_esp": "pozo",
+    "significado": ""
+  },
+  {
+    "_id": 2559,
+    "num_pal": 2553,
+    "pal_tenek": "matib",
+    "pal_esp": "prestado, alquilado",
+    "significado": ""
+  },
+  {
+    "_id": 2560,
+    "num_pal": 2554,
+    "pal_tenek": "bayil",
+    "pal_esp": "prima",
+    "significado": ""
+  },
+  {
+    "_id": 2561,
+    "num_pal": 2555,
+    "pal_tenek": "lupūth",
+    "pal_esp": "profundo",
+    "significado": ""
+  },
+  {
+    "_id": 2562,
+    "num_pal": 2556,
+    "pal_tenek": "bichou",
+    "pal_esp": "pueblo, ciudad o comunidad",
+    "significado": ""
+  },
+  {
+    "_id": 2563,
+    "num_pal": 2557,
+    "pal_tenek": "tsaplab",
+    "pal_esp": "pujo",
+    "significado": ""
+  },
+  {
+    "_id": 2564,
+    "num_pal": 2558,
+    "pal_tenek": "ts’ak",
+    "pal_esp": "pulga",
+    "significado": ""
+  },
+  {
+    "_id": 2565,
+    "num_pal": 2559,
+    "pal_tenek": "tha’ub",
+    "pal_esp": "pulmón",
+    "significado": ""
+  },
+  {
+    "_id": 2566,
+    "num_pal": 2560,
+    "pal_tenek": "aka'",
+    "pal_esp": "pus",
+    "significado": ""
+  },
+  {
+    "_id": 2567,
+    "num_pal": 2561,
+    "pal_tenek": "jai wīlkith",
+    "pal_esp": "que tan seguido",
+    "significado": ""
+  },
+  {
+    "_id": 2568,
+    "num_pal": 2562,
+    "pal_tenek": "chith",
+    "pal_esp": "quelite, amaranto",
+    "significado": ""
+  },
+  {
+    "_id": 2569,
+    "num_pal": 2563,
+    "pal_tenek": "chikāl",
+    "pal_esp": "quemar, arder",
+    "significado": ""
+  },
+  {
+    "_id": 2570,
+    "num_pal": 2564,
+    "pal_tenek": "lē’",
+    "pal_esp": "querer, desear",
+    "significado": ""
+  },
+  {
+    "_id": 2571,
+    "num_pal": 2565,
+    "pal_tenek": "laju bó'",
+    "pal_esp": "quince",
+    "significado": ""
+  },
+  {
+    "_id": 2572,
+    "num_pal": 2566,
+    "pal_tenek": "tajlunal",
+    "pal_esp": "quitar, desaparecer",
+    "significado": ""
+  },
+  {
+    "_id": 2573,
+    "num_pal": 2567,
+    "pal_tenek": "tishk’anchal",
+    "pal_esp": "quitarse (ej. la camisa)",
+    "significado": ""
+  },
+  {
+    "_id": 2574,
+    "num_pal": 2568,
+    "pal_tenek": "k'al wekthāl",
+    "pal_esp": "quítese (sáquese, retírese) una prenda",
+    "significado": ""
+  },
+  {
+    "_id": 2575,
+    "num_pal": 2569,
+    "pal_tenek": "thubat",
+    "pal_esp": "rápido",
+    "significado": ""
+  },
+  {
+    "_id": 2576,
+    "num_pal": 2570,
+    "pal_tenek": "kots’in",
+    "pal_esp": "rascar",
+    "significado": ""
+  },
+  {
+    "_id": 2577,
+    "num_pal": 2571,
+    "pal_tenek": "te'el",
+    "pal_esp": "rata",
+    "significado": ""
+  },
+  {
+    "_id": 2578,
+    "num_pal": 2572,
+    "pal_tenek": "tolith",
+    "pal_esp": "redondo",
+    "significado": ""
+  },
+  {
+    "_id": 2579,
+    "num_pal": 2573,
+    "pal_tenek": "wichel",
+    "pal_esp": "regresar, vuelve",
+    "significado": ""
+  },
+  {
+    "_id": 2580,
+    "num_pal": 2574,
+    "pal_tenek": "athiktalāb",
+    "pal_esp": "repentinamente",
+    "significado": ""
+  },
+  {
+    "_id": 2581,
+    "num_pal": 2575,
+    "pal_tenek": "ishkal",
+    "pal_esp": "respira, respirar",
+    "significado": ""
+  },
+  {
+    "_id": 2582,
+    "num_pal": 2576,
+    "pal_tenek": "tenal",
+    "pal_esp": "risa, reír",
+    "significado": ""
+  },
+  {
+    "_id": 2583,
+    "num_pal": 2577,
+    "pal_tenek": "k’walāl",
+    "pal_esp": "rodilla",
+    "significado": ""
+  },
+  {
+    "_id": 2584,
+    "num_pal": 2578,
+    "pal_tenek": "tsakninil",
+    "pal_esp": "rojizo",
+    "significado": ""
+  },
+  {
+    "_id": 2585,
+    "num_pal": 2579,
+    "pal_tenek": "tsakní",
+    "pal_esp": "rojo",
+    "significado": ""
+  },
+  {
+    "_id": 2586,
+    "num_pal": 2580,
+    "pal_tenek": "k’wa’chim",
+    "pal_esp": "ropa",
+    "significado": ""
+  },
+  {
+    "_id": 2587,
+    "num_pal": 2581,
+    "pal_tenek": "toltom",
+    "pal_esp": "ropa",
+    "significado": ""
+  },
+  {
+    "_id": 2588,
+    "num_pal": 2582,
+    "pal_tenek": "tso'ob",
+    "pal_esp": "saber",
+    "significado": ""
+  },
+  {
+    "_id": 2589,
+    "num_pal": 2583,
+    "pal_tenek": "tsalpath",
+    "pal_esp": "sabio",
+    "significado": ""
+  },
+  {
+    "_id": 2590,
+    "num_pal": 2584,
+    "pal_tenek": "kujū",
+    "pal_esp": "sabor",
+    "significado": ""
+  },
+  {
+    "_id": 2591,
+    "num_pal": 2585,
+    "pal_tenek": "bātlom",
+    "pal_esp": "saliva",
+    "significado": ""
+  },
+  {
+    "_id": 2592,
+    "num_pal": 2586,
+    "pal_tenek": "ijil",
+    "pal_esp": "saliva",
+    "significado": ""
+  },
+  {
+    "_id": 2593,
+    "num_pal": 2587,
+    "pal_tenek": "jant'oj wa'ats",
+    "pal_esp": "saludo en general",
+    "significado": ""
+  },
+  {
+    "_id": 2594,
+    "num_pal": 2588,
+    "pal_tenek": "shits’",
+    "pal_esp": "sangre",
+    "significado": ""
+  },
+  {
+    "_id": 2595,
+    "num_pal": 2589,
+    "pal_tenek": "t’othoy",
+    "pal_esp": "sarna",
+    "significado": ""
+  },
+  {
+    "_id": 2596,
+    "num_pal": 2590,
+    "pal_tenek": "akal tsak’uib",
+    "pal_esp": "sarpullido",
+    "significado": ""
+  },
+  {
+    "_id": 2597,
+    "num_pal": 2591,
+    "pal_tenek": "aj’uch",
+    "pal_esp": "satisfecho de comer",
+    "significado": ""
+  },
+  {
+    "_id": 2598,
+    "num_pal": 2592,
+    "pal_tenek": "kuatsil",
+    "pal_esp": "se acuesta",
+    "significado": ""
+  },
+  {
+    "_id": 2599,
+    "num_pal": 2593,
+    "pal_tenek": "kuajlan",
+    "pal_esp": "se cayó, se golpeó",
+    "significado": ""
+  },
+  {
+    "_id": 2600,
+    "num_pal": 2594,
+    "pal_tenek": "ilālnal",
+    "pal_esp": "se cura",
+    "significado": ""
+  },
+  {
+    "_id": 2601,
+    "num_pal": 2595,
+    "pal_tenek": "k’opath",
+    "pal_esp": "se fracturó",
+    "significado": ""
+  },
+  {
+    "_id": 2602,
+    "num_pal": 2596,
+    "pal_tenek": "kalēts",
+    "pal_esp": "se fue, ya salió",
+    "significado": ""
+  },
+  {
+    "_id": 2603,
+    "num_pal": 2597,
+    "pal_tenek": "inbī",
+    "pal_esp": "se llama, llamarse",
+    "significado": ""
+  },
+  {
+    "_id": 2604,
+    "num_pal": 2598,
+    "pal_tenek": "wainik",
+    "pal_esp": "seco",
+    "significado": ""
+  },
+  {
+    "_id": 2605,
+    "num_pal": 2599,
+    "pal_tenek": "wayenek",
+    "pal_esp": "seco",
+    "significado": ""
+  },
+  {
+    "_id": 2606,
+    "num_pal": 2600,
+    "pal_tenek": "ojbayal",
+    "pal_esp": "secretar",
+    "significado": ""
+  },
+  {
+    "_id": 2607,
+    "num_pal": 2601,
+    "pal_tenek": "chiken",
+    "pal_esp": "sed",
+    "significado": ""
+  },
+  {
+    "_id": 2608,
+    "num_pal": 2602,
+    "pal_tenek": "wilk’ith",
+    "pal_esp": "seguido",
+    "significado": ""
+  },
+  {
+    "_id": 2609,
+    "num_pal": 2603,
+    "pal_tenek": "akak",
+    "pal_esp": "seis",
+    "significado": ""
+  },
+  {
+    "_id": 2610,
+    "num_pal": 2604,
+    "pal_tenek": "kuetel",
+    "pal_esp": "sentar",
+    "significado": ""
+  },
+  {
+    "_id": 2611,
+    "num_pal": 2605,
+    "pal_tenek": "kūten",
+    "pal_esp": "sentarse",
+    "significado": ""
+  },
+  {
+    "_id": 2612,
+    "num_pal": 2606,
+    "pal_tenek": "jilashnēnek",
+    "pal_esp": "separado",
+    "significado": ""
+  },
+  {
+    "_id": 2613,
+    "num_pal": 2607,
+    "pal_tenek": "tsan",
+    "pal_esp": "serpiente",
+    "significado": ""
+  },
+  {
+    "_id": 2614,
+    "num_pal": 2608,
+    "pal_tenek": "óx inik",
+    "pal_esp": "sesenta",
+    "significado": ""
+  },
+  {
+    "_id": 2615,
+    "num_pal": 2609,
+    "pal_tenek": "óx inik laju",
+    "pal_esp": "setenta",
+    "significado": ""
+  },
+  {
+    "_id": 2616,
+    "num_pal": 2610,
+    "pal_tenek": "akakchil",
+    "pal_esp": "sexto",
+    "significado": ""
+  },
+  {
+    "_id": 2617,
+    "num_pal": 2611,
+    "pal_tenek": "antsanā’",
+    "pal_esp": "si",
+    "significado": ""
+  },
+  {
+    "_id": 2618,
+    "num_pal": 2612,
+    "pal_tenek": "alwa its",
+    "pal_esp": "si (esta bien)",
+    "significado": ""
+  },
+  {
+    "_id": 2619,
+    "num_pal": 2613,
+    "pal_tenek": "ets’ey",
+    "pal_esp": "siempre",
+    "significado": ""
+  },
+  {
+    "_id": 2620,
+    "num_pal": 2614,
+    "pal_tenek": "kōyol",
+    "pal_esp": "siéntese, descanse",
+    "significado": ""
+  },
+  {
+    "_id": 2621,
+    "num_pal": 2615,
+    "pal_tenek": "buk",
+    "pal_esp": "siete",
+    "significado": ""
+  },
+  {
+    "_id": 2622,
+    "num_pal": 2616,
+    "pal_tenek": "laktem",
+    "pal_esp": "silla",
+    "significado": ""
+  },
+  {
+    "_id": 2623,
+    "num_pal": 2617,
+    "pal_tenek": "ītsak’",
+    "pal_esp": "sobrino",
+    "significado": ""
+  },
+  {
+    "_id": 2624,
+    "num_pal": 2618,
+    "pal_tenek": "wayashbel",
+    "pal_esp": "somnolencia",
+    "significado": ""
+  },
+  {
+    "_id": 2625,
+    "num_pal": 2619,
+    "pal_tenek": "tsuyuyūl",
+    "pal_esp": "sonido, zumbido",
+    "significado": ""
+  },
+  {
+    "_id": 2626,
+    "num_pal": 2620,
+    "pal_tenek": "wachbil",
+    "pal_esp": "soñar",
+    "significado": ""
+  },
+  {
+    "_id": 2627,
+    "num_pal": 2621,
+    "pal_tenek": "na",
+    "pal_esp": "su, sus",
+    "significado": ""
+  },
+  {
+    "_id": 2628,
+    "num_pal": 2622,
+    "pal_tenek": "tsakbinal",
+    "pal_esp": "sudar",
+    "significado": ""
+  },
+  {
+    "_id": 2629,
+    "num_pal": 2623,
+    "pal_tenek": "tsak’bin",
+    "pal_esp": "sudor",
+    "significado": ""
+  },
+  {
+    "_id": 2630,
+    "num_pal": 2624,
+    "pal_tenek": "iyām",
+    "pal_esp": "suegro, yerno",
+    "significado": ""
+  },
+  {
+    "_id": 2631,
+    "num_pal": 2625,
+    "pal_tenek": "tsebat",
+    "pal_esp": "sueño, soñar",
+    "significado": ""
+  },
+  {
+    "_id": 2632,
+    "num_pal": 2626,
+    "pal_tenek": "oktsa’",
+    "pal_esp": "tabla",
+    "significado": ""
+  },
+  {
+    "_id": 2633,
+    "num_pal": 2627,
+    "pal_tenek": "kuatzām",
+    "pal_esp": "tamal",
+    "significado": ""
+  },
+  {
+    "_id": 2634,
+    "num_pal": 2628,
+    "pal_tenek": "puwēl",
+    "pal_esp": "tamaño",
+    "significado": ""
+  },
+  {
+    "_id": 2635,
+    "num_pal": 2629,
+    "pal_tenek": "wa’kal",
+    "pal_esp": "tarde",
+    "significado": ""
+  },
+  {
+    "_id": 2636,
+    "num_pal": 2630,
+    "pal_tenek": "ko'ol",
+    "pal_esp": "tener",
+    "significado": ""
+  },
+  {
+    "_id": 2637,
+    "num_pal": 2631,
+    "pal_tenek": "bichamtalāb",
+    "pal_esp": "tener calambres",
+    "significado": ""
+  },
+  {
+    "_id": 2638,
+    "num_pal": 2632,
+    "pal_tenek": "kokoy",
+    "pal_esp": "tener, concebir",
+    "significado": ""
+  },
+  {
+    "_id": 2639,
+    "num_pal": 2633,
+    "pal_tenek": "wa’ats",
+    "pal_esp": "tener, hay",
+    "significado": ""
+  },
+  {
+    "_id": 2640,
+    "num_pal": 2634,
+    "pal_tenek": "kua’al",
+    "pal_esp": "tener, tiene",
+    "significado": ""
+  },
+  {
+    "_id": 2641,
+    "num_pal": 2635,
+    "pal_tenek": "kithbai",
+    "pal_esp": "terminar",
+    "significado": ""
+  },
+  {
+    "_id": 2642,
+    "num_pal": 2636,
+    "pal_tenek": "ulits",
+    "pal_esp": "terminar, alcanzar",
+    "significado": ""
+  },
+  {
+    "_id": 2643,
+    "num_pal": 2637,
+    "pal_tenek": "tsanūb",
+    "pal_esp": "tía",
+    "significado": ""
+  },
+  {
+    "_id": 2644,
+    "num_pal": 2638,
+    "pal_tenek": "mamush",
+    "pal_esp": "tibio",
+    "significado": ""
+  },
+  {
+    "_id": 2645,
+    "num_pal": 2639,
+    "pal_tenek": "we",
+    "pal_esp": "tiempo, momento",
+    "significado": ""
+  },
+  {
+    "_id": 2646,
+    "num_pal": 2640,
+    "pal_tenek": "in kual",
+    "pal_esp": "tiene",
+    "significado": ""
+  },
+  {
+    "_id": 2647,
+    "num_pal": 2641,
+    "pal_tenek": "ts’aybel",
+    "pal_esp": "tiene frio",
+    "significado": ""
+  },
+  {
+    "_id": 2648,
+    "num_pal": 2642,
+    "pal_tenek": "ats’āl",
+    "pal_esp": "tiene, siente",
+    "significado": ""
+  },
+  {
+    "_id": 2649,
+    "num_pal": 2643,
+    "pal_tenek": "anam",
+    "pal_esp": "tierra",
+    "significado": ""
+  },
+  {
+    "_id": 2650,
+    "num_pal": 2644,
+    "pal_tenek": "itsān",
+    "pal_esp": "tío",
+    "significado": ""
+  },
+  {
+    "_id": 2651,
+    "num_pal": 2645,
+    "pal_tenek": "wak’lāl",
+    "pal_esp": "tirar, arrojar",
+    "significado": ""
+  },
+  {
+    "_id": 2652,
+    "num_pal": 2646,
+    "pal_tenek": "ūt",
+    "pal_esp": "tlacuache",
+    "significado": ""
+  },
+  {
+    "_id": 2653,
+    "num_pal": 2647,
+    "pal_tenek": "bolilīl",
+    "pal_esp": "todo derecho",
+    "significado": ""
+  },
+  {
+    "_id": 2654,
+    "num_pal": 2648,
+    "pal_tenek": "yanel",
+    "pal_esp": "todo, aumenta",
+    "significado": ""
+  },
+  {
+    "_id": 2655,
+    "num_pal": 2649,
+    "pal_tenek": "patal",
+    "pal_esp": "todo, todos",
+    "significado": ""
+  },
+  {
+    "_id": 2656,
+    "num_pal": 2650,
+    "pal_tenek": "tuthey",
+    "pal_esp": "tomate, jitomate",
+    "significado": ""
+  },
+  {
+    "_id": 2657,
+    "num_pal": 2651,
+    "pal_tenek": "bakan",
+    "pal_esp": "tortilla",
+    "significado": ""
+  },
+  {
+    "_id": 2658,
+    "num_pal": 2652,
+    "pal_tenek": "ojob",
+    "pal_esp": "tos, gripa",
+    "significado": ""
+  },
+  {
+    "_id": 2659,
+    "num_pal": 2653,
+    "pal_tenek": "ojbal",
+    "pal_esp": "tose",
+    "significado": ""
+  },
+  {
+    "_id": 2660,
+    "num_pal": 2654,
+    "pal_tenek": "t’ojnal",
+    "pal_esp": "trabajar",
+    "significado": ""
+  },
+  {
+    "_id": 2661,
+    "num_pal": 2655,
+    "pal_tenek": "tojlāb",
+    "pal_esp": "trabajo",
+    "significado": ""
+  },
+  {
+    "_id": 2662,
+    "num_pal": 2656,
+    "pal_tenek": "chāl",
+    "pal_esp": "traer",
+    "significado": ""
+  },
+  {
+    "_id": 2663,
+    "num_pal": 2657,
+    "pal_tenek": "chiyal",
+    "pal_esp": "traer",
+    "significado": ""
+  },
+  {
+    "_id": 2664,
+    "num_pal": 2658,
+    "pal_tenek": "k’ut’uwal",
+    "pal_esp": "tragar",
+    "significado": ""
+  },
+  {
+    "_id": 2665,
+    "num_pal": 2659,
+    "pal_tenek": "k’chiya",
+    "pal_esp": "traiga",
+    "significado": ""
+  },
+  {
+    "_id": 2666,
+    "num_pal": 2660,
+    "pal_tenek": "ts’akat",
+    "pal_esp": "tranquilo",
+    "significado": ""
+  },
+  {
+    "_id": 2667,
+    "num_pal": 2661,
+    "pal_tenek": "thakni’ jantitha i ja'",
+    "pal_esp": "transparente",
+    "significado": ""
+  },
+  {
+    "_id": 2668,
+    "num_pal": 2662,
+    "pal_tenek": "laju óx",
+    "pal_esp": "trece",
+    "significado": ""
+  },
+  {
+    "_id": 2669,
+    "num_pal": 2663,
+    "pal_tenek": "jún inik laju",
+    "pal_esp": "treinta",
+    "significado": ""
+  },
+  {
+    "_id": 2670,
+    "num_pal": 2664,
+    "pal_tenek": "ōsh",
+    "pal_esp": "tres",
+    "significado": ""
+  },
+  {
+    "_id": 2671,
+    "num_pal": 2665,
+    "pal_tenek": "ōshīl",
+    "pal_esp": "tres veces",
+    "significado": ""
+  },
+  {
+    "_id": 2672,
+    "num_pal": 2666,
+    "pal_tenek": "óx ciento",
+    "pal_esp": "trescientos",
+    "significado": ""
+  },
+  {
+    "_id": 2673,
+    "num_pal": 2667,
+    "pal_tenek": "shokukūl",
+    "pal_esp": "triste, apagado",
+    "significado": ""
+  },
+  {
+    "_id": 2674,
+    "num_pal": 2668,
+    "pal_tenek": "tepinal",
+    "pal_esp": "triste, tristeza",
+    "significado": ""
+  },
+  {
+    "_id": 2675,
+    "num_pal": 2669,
+    "pal_tenek": "ba’im",
+    "pal_esp": "tuza",
+    "significado": ""
+  },
+  {
+    "_id": 2676,
+    "num_pal": 2670,
+    "pal_tenek": "lēts’",
+    "pal_esp": "úlcera",
+    "significado": ""
+  },
+  {
+    "_id": 2677,
+    "num_pal": 2671,
+    "pal_tenek": "taltalāb",
+    "pal_esp": "último",
+    "significado": ""
+  },
+  {
+    "_id": 2678,
+    "num_pal": 2672,
+    "pal_tenek": "junīl",
+    "pal_esp": "una vez",
+    "significado": ""
+  },
+  {
+    "_id": 2679,
+    "num_pal": 2673,
+    "pal_tenek": "juni",
+    "pal_esp": "una, uno , un",
+    "significado": ""
+  },
+  {
+    "_id": 2680,
+    "num_pal": 2674,
+    "pal_tenek": "naptal",
+    "pal_esp": "únicamente",
+    "significado": ""
+  },
+  {
+    "_id": 2681,
+    "num_pal": 2675,
+    "pal_tenek": "junkunēnek",
+    "pal_esp": "unido",
+    "significado": ""
+  },
+  {
+    "_id": 2682,
+    "num_pal": 2676,
+    "pal_tenek": "jun",
+    "pal_esp": "uno",
+    "significado": ""
+  },
+  {
+    "_id": 2683,
+    "num_pal": 2677,
+    "pal_tenek": "itsīk",
+    "pal_esp": "uñas",
+    "significado": ""
+  },
+  {
+    "_id": 2684,
+    "num_pal": 2678,
+    "pal_tenek": "pik’uy",
+    "pal_esp": "urraca",
+    "significado": ""
+  },
+  {
+    "_id": 2685,
+    "num_pal": 2679,
+    "pal_tenek": "eyenthāl",
+    "pal_esp": "usar",
+    "significado": ""
+  },
+  {
+    "_id": 2686,
+    "num_pal": 2680,
+    "pal_tenek": "tatā’",
+    "pal_esp": "usted",
+    "significado": ""
+  },
+  {
+    "_id": 2687,
+    "num_pal": 2681,
+    "pal_tenek": "tin",
+    "pal_esp": "usted me",
+    "significado": ""
+  },
+  {
+    "_id": 2688,
+    "num_pal": 2682,
+    "pal_tenek": "ti",
+    "pal_esp": "usted, ustedes",
+    "significado": ""
+  },
+  {
+    "_id": 2689,
+    "num_pal": 2683,
+    "pal_tenek": "shashā",
+    "pal_esp": "ustedes",
+    "significado": ""
+  },
+  {
+    "_id": 2690,
+    "num_pal": 2684,
+    "pal_tenek": "pakash",
+    "pal_esp": "vaca",
+    "significado": ""
+  },
+  {
+    "_id": 2691,
+    "num_pal": 2685,
+    "pal_tenek": "wanáts; wanajits",
+    "pal_esp": "vámonos",
+    "significado": ""
+  },
+  {
+    "_id": 2692,
+    "num_pal": 2686,
+    "pal_tenek": "wana",
+    "pal_esp": "vamos",
+    "significado": ""
+  },
+  {
+    "_id": 2693,
+    "num_pal": 2687,
+    "pal_tenek": "ne’ets",
+    "pal_esp": "vamos, vaya,",
+    "significado": ""
+  },
+  {
+    "_id": 2694,
+    "num_pal": 2688,
+    "pal_tenek": "jún inik",
+    "pal_esp": "veinte",
+    "significado": ""
+  },
+  {
+    "_id": 2695,
+    "num_pal": 2689,
+    "pal_tenek": "itsamal",
+    "pal_esp": "venado",
+    "significado": ""
+  },
+  {
+    "_id": 2696,
+    "num_pal": 2690,
+    "pal_tenek": "kitchich",
+    "pal_esp": "venga",
+    "significado": ""
+  },
+  {
+    "_id": 2697,
+    "num_pal": 2691,
+    "pal_tenek": "met’āl",
+    "pal_esp": "ver, observar",
+    "significado": ""
+  },
+  {
+    "_id": 2698,
+    "num_pal": 2692,
+    "pal_tenek": "yashu’",
+    "pal_esp": "verde",
+    "significado": ""
+  },
+  {
+    "_id": 2699,
+    "num_pal": 2693,
+    "pal_tenek": "pitsitswal",
+    "pal_esp": "verdolagas",
+    "significado": ""
+  },
+  {
+    "_id": 2700,
+    "num_pal": 2694,
+    "pal_tenek": "yashushūl",
+    "pal_esp": "verdoso",
+    "significado": ""
+  },
+  {
+    "_id": 2701,
+    "num_pal": 2695,
+    "pal_tenek": "tsojol",
+    "pal_esp": "verdura",
+    "significado": ""
+  },
+  {
+    "_id": 2702,
+    "num_pal": 2696,
+    "pal_tenek": "tsojolchik",
+    "pal_esp": "verduras",
+    "significado": ""
+  },
+  {
+    "_id": 2703,
+    "num_pal": 2697,
+    "pal_tenek": "iētsel",
+    "pal_esp": "viejo, vieja",
+    "significado": ""
+  },
+  {
+    "_id": 2704,
+    "num_pal": 2698,
+    "pal_tenek": "che’el",
+    "pal_esp": "viene",
+    "significado": ""
+  },
+  {
+    "_id": 2705,
+    "num_pal": 2699,
+    "pal_tenek": "jilome",
+    "pal_esp": "viudo",
+    "significado": ""
+  },
+  {
+    "_id": 2706,
+    "num_pal": 2700,
+    "pal_tenek": "k’wajil",
+    "pal_esp": "vivir en , habitar",
+    "significado": ""
+  },
+  {
+    "_id": 2707,
+    "num_pal": 2701,
+    "pal_tenek": "ejat",
+    "pal_esp": "vivo, vivos",
+    "significado": ""
+  },
+  {
+    "_id": 2708,
+    "num_pal": 2702,
+    "pal_tenek": "sha'al",
+    "pal_esp": "vomita",
+    "significado": ""
+  },
+  {
+    "_id": 2709,
+    "num_pal": 2703,
+    "pal_tenek": "sha'āmath",
+    "pal_esp": "vomitar",
+    "significado": ""
+  },
+  {
+    "_id": 2710,
+    "num_pal": 2704,
+    "pal_tenek": "sha’",
+    "pal_esp": "vómito",
+    "significado": ""
+  },
+  {
+    "_id": 2711,
+    "num_pal": 2705,
+    "pal_tenek": "kāu,  kaw",
+    "pal_esp": "voz, habla, palabra",
+    "significado": ""
+  },
+  {
+    "_id": 2712,
+    "num_pal": 2706,
+    "pal_tenek": "ani",
+    "pal_esp": "y",
+    "significado": ""
+  },
+  {
+    "_id": 2713,
+    "num_pal": 2707,
+    "pal_tenek": "ne'tsits tam, ne'tsits na'",
+    "pal_esp": "ya me voy",
+    "significado": ""
+  },
+  {
+    "_id": 2714,
+    "num_pal": 2708,
+    "pal_tenek": "in k'a'ilits",
+    "pal_esp": "ya tengo hambre",
+    "significado": ""
+  },
+  {
+    "_id": 2715,
+    "num_pal": 2709,
+    "pal_tenek": "nanā",
+    "pal_esp": "yo",
+    "significado": ""
+  },
+  {
+    "_id": 2716,
+    "num_pal": 2710,
+    "pal_tenek": "naná' in káw tének; naná' in t'ilom tének",
+    "pal_esp": "Yo hablo huasteco",
+    "significado": ""
+  },
+  {
+    "_id": 2717,
+    "num_pal": 2711,
+    "pal_tenek": "tinche",
+    "pal_esp": "yuca",
+    "significado": ""
+  },
+  {
+    "_id": 2718,
+    "num_pal": 2712,
+    "pal_tenek": "tot",
+    "pal_esp": "zopilote",
+    "significado": ""
+  },
+  {
+    "_id": 2719,
+    "num_pal": 2713,
+    "pal_tenek": "wejwel",
+    "pal_esp": "zorro",
+    "significado": ""
   }
 ]
