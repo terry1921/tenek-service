@@ -10,8 +10,8 @@ var cors = require('cors')
 const app = express()
 const secret = '951asd357pom'
 
-let corsOptions = {
-    origin: 'https://editor.swagger.io/' // Compliant
+const corsOptions = {
+    origin: 'editor.swagger.io'
 };
 
 // settings
