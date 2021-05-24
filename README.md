@@ -1,4 +1,4 @@
-# Tenek dictionary service
+# Tenek translate service
 
 Dictionary service for tenek language / Spanish
 
@@ -10,6 +10,7 @@ You can find much more about how to use this project in our [Wiki](https://githu
 
 |Method| Service | Description |
 | -- |--|--|
+| GET | /all | show all dicctionary in a table |
 | GET | /dictionary | get all dicctionary in json format |
 | GET | /es/{query} | search word in spanish |
 | GET | /tk/{query} | search word in tenek |
