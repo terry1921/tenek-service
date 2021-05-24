@@ -5,11 +5,13 @@ const cookieParser = require('cookie-parser')
 const session = require('express-session')
 const bodyParser = require('body-parser');
 const path = require('path');
+var cors = require('cors')
 
 const app = express()
 const secret = '951asd357pom'
 
 // settings
+app.use(cors())
 app.disable("x-powered-by");
 app.set('port', process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
