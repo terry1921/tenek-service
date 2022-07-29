@@ -1,7 +1,10 @@
+'use strict'
 const { Router } = require('express');
+let helmet = require('helmet')
 const router = Router();
+router.use(helmet.hidePoweredBy());
 const dictionary = require('../words.js');
-let jsonNenek = require('../public/dictionary.json');
+let jsonNenek = require('../source/dictionary.json');
 
 // Get all diccionary
 router.get("/", (req, res) => {
@@ -29,7 +32,7 @@ router.get("/tk/:query", (req, res) => {
 })
 
 function parseSearch(type, query, res) {
-    var index = searchname(jsonNenek, query, type);
+    let index = searchName(jsonNenek, query, type);
     if(index.length < 1) {
         const data = {
             error: 404,
@@ -41,8 +44,8 @@ function parseSearch(type, query, res) {
     }
 }
 
-var searchname = function(json, query, index){
-    var array = []
+let searchName = function(json, query, index){
+    let array = []
     for (let value of json) {
         if (value[index].toLowerCase().indexOf(query.toLowerCase())>-1) {
             console.log(value)
