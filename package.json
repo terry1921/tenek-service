@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index",
-    "dev": "nodemon src/index"
+    "dev": "nodemon src/index",
+    "development": "nodemon src/index"
   },
   "funding": {
     "type": "individual",
@@ -18,13 +19,14 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "express-handlebars": "^5.2.0",
+    "express-handlebars": "^5.3.3",
     "express-session": "^1.17.1",
+    "helmet": "^4.6.0",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.19"
   },
   "repository": {
     "type": "git",
