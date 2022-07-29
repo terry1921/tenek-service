@@ -1,4 +1,4 @@
-let dictionary = require('./public/dictionary.json');
+let dictionary = require('./source/dictionary.json');
 
 module.exports = { allDictionary }
 

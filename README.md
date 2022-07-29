@@ -4,7 +4,7 @@ Dictionary service for tenek language / Spanish
 
 ## Wiki 📖
 
-You can find much more about how to use this project in our [Wiki](https://github.com/terry0022/tenek-service/wiki)
+You can find much more about how to use this project in our [Wiki](https://github.com/terry1921/tenek-service/wiki)
 
 ## REST
 
@@ -17,7 +17,7 @@ You can find much more about how to use this project in our [Wiki](https://githu
 
 ## Authors ✒️
 
-* **Enrique Espinoza** - *Initial work* - [Terry0022](https://github.com/terry0022)
+* **Enrique Espinoza** - *Initial work* - [Terry1921](https://github.com/terry1921)
 
 ## LICENSE  📄
 
